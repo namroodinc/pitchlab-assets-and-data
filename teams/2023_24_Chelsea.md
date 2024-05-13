@@ -3,11 +3,17 @@
 ![Chelsea FC Logo](https://res.cloudinary.com/dbrijhx95/image/upload/v1701607776/untitled-sports-project/team/ad0f1c76-e1bb-459b-bf91-dc1cce842c76.png)
 
 **Full Name:** Chelsea
+
 **Short Name:** Chelsea
+
 **Founded:** March 10, 1905
+
 **Location:** Stamford Bridge, London
+
 **Stadium Capacity:** 40,341
+
 **Team Colors:** Blue (#0310a7) and White (#ffffff)
+
 **Type:** Football Team
 
 ## Contact
