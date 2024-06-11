@@ -1,0 +1,918 @@
+{
+  "data": {
+    "footballLeagueTable": [
+      {
+        "table": [
+          {
+            "team": {
+              "uuid": "0427b056-539d-4b6f-9ead-24ca81e01b92",
+              "name": "Manchester City",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127928/untitled-sports-project/team/0427b056-539d-4b6f-9ead-24ca81e01b92.png"
+            },
+            "last5": [
+              {
+                "outcome": "win",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "eb7a55ea-76f6-4868-b633-0d0e0e015daa"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-14T19:00:00.000Z",
+                "uuid": "a4df28a5-3ed1-47c6-a7f2-f9a378a760f2"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-11T11:30:00.000Z",
+                "uuid": "41134f11-2efb-4eb0-81f4-cee93521483e"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-04T16:30:00.000Z",
+                "uuid": "284f8dde-6d17-4bb7-8762-66ee497909a1"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-28T15:30:00.000Z",
+                "uuid": "d2cc2d85-765b-4d25-950f-3db818ea6934"
+              }
+            ],
+            "played": 38,
+            "wins": 28,
+            "draws": 7,
+            "losses": 3,
+            "goalsFor": 96,
+            "goalsAgainst": 34,
+            "points": 91,
+            "goalDifference": 62,
+            "position": 1,
+            "notes": [
+              "Teams in positions 1 to 4 at the end of the season qualify for the UEFA Champions League group stage."
+            ]
+          },
+          {
+            "team": {
+              "uuid": "954a3f57-5ad9-448c-90ef-3f968324f993",
+              "name": "Arsenal",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127926/untitled-sports-project/team/954a3f57-5ad9-448c-90ef-3f968324f993.png"
+            },
+            "last5": [
+              {
+                "outcome": "win",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "88ae6d88-518c-49dd-8de9-8a27918b310b"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-12T15:30:00.000Z",
+                "uuid": "1801fff6-7749-478b-99a8-974cb084dc4d"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-04T11:30:00.000Z",
+                "uuid": "c3a9376f-4fa8-4c36-9081-a4fd7f5111b4"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-28T13:00:00.000Z",
+                "uuid": "9053a9bb-741b-4351-824a-93326523dae7"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-23T19:00:00.000Z",
+                "uuid": "0ec81742-144a-4a63-bd1a-cbc76d8544c1"
+              }
+            ],
+            "played": 38,
+            "wins": 28,
+            "draws": 5,
+            "losses": 5,
+            "goalsFor": 91,
+            "goalsAgainst": 29,
+            "points": 89,
+            "goalDifference": 62,
+            "position": 2,
+            "notes": [
+              "Teams in positions 1 to 4 at the end of the season qualify for the UEFA Champions League group stage."
+            ]
+          },
+          {
+            "team": {
+              "uuid": "2183fa54-5545-4f57-919d-a6e9a44f867b",
+              "name": "Liverpool",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127934/untitled-sports-project/team/2183fa54-5545-4f57-919d-a6e9a44f867b.png"
+            },
+            "last5": [
+              {
+                "outcome": "win",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "d7c29007-4eca-4481-b2ef-38b0fd513ccd"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-05-13T19:00:00.000Z",
+                "uuid": "667aee20-f5d2-4482-92b4-fc465cc60da7"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-05T15:30:00.000Z",
+                "uuid": "43f157fe-3c58-44fe-ac6b-3162fa28bbd2"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-04-27T11:30:00.000Z",
+                "uuid": "6145d980-a535-4643-8a11-731eadec2363"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-24T19:00:00.000Z",
+                "uuid": "d26a5967-068a-4f5b-89ac-543d6de1b22c"
+              }
+            ],
+            "played": 38,
+            "wins": 24,
+            "draws": 10,
+            "losses": 4,
+            "goalsFor": 86,
+            "goalsAgainst": 41,
+            "points": 82,
+            "goalDifference": 45,
+            "position": 3,
+            "notes": [
+              "Teams in positions 1 to 4 at the end of the season qualify for the UEFA Champions League group stage."
+            ]
+          },
+          {
+            "team": {
+              "uuid": "bdc5a7ee-52cc-46f8-b7f8-b95353575cf5",
+              "name": "Aston Villa",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127922/untitled-sports-project/team/bdc5a7ee-52cc-46f8-b7f8-b95353575cf5.png"
+            },
+            "last5": [
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "7bf5508d-327b-4646-afa0-cb80a309af39"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-05-13T19:00:00.000Z",
+                "uuid": "08f0b184-318b-4a01-b888-89f3da87f8b0"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-05T13:00:00.000Z",
+                "uuid": "f2e72885-f278-42a9-96ec-9c82c74cb7d3"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-04-27T19:00:00.000Z",
+                "uuid": "5ce850b9-f46b-4dc4-89d1-9cb4fcee3100"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-21T14:00:00.000Z",
+                "uuid": "f5e7ae6d-1497-4e59-8049-ee9632dc076f"
+              }
+            ],
+            "played": 38,
+            "wins": 20,
+            "draws": 8,
+            "losses": 10,
+            "goalsFor": 76,
+            "goalsAgainst": 61,
+            "points": 68,
+            "goalDifference": 15,
+            "position": 4,
+            "notes": [
+              "Teams in positions 1 to 4 at the end of the season qualify for the UEFA Champions League group stage."
+            ]
+          },
+          {
+            "team": {
+              "uuid": "bd25e56d-22c8-4a59-9975-91a98185fe0d",
+              "name": "Tottenham Hotspur",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127925/untitled-sports-project/team/bd25e56d-22c8-4a59-9975-91a98185fe0d.png"
+            },
+            "last5": [
+              {
+                "outcome": "win",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "b4ef196e-00d0-43ad-b20a-9fd9268e9a0b"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-14T19:00:00.000Z",
+                "uuid": "9c7e9135-9f9d-4619-bc4f-52e22a6bebf2"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "bae700c3-d068-4628-94c3-fe1f3ad9d36a"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-05T15:30:00.000Z",
+                "uuid": "bd2b9d72-15ab-4c9c-a9fc-fb5aed18a63d"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-02T18:30:00.000Z",
+                "uuid": "3fd78e5c-aeff-4b09-8612-aabb57482799"
+              }
+            ],
+            "played": 38,
+            "wins": 20,
+            "draws": 6,
+            "losses": 12,
+            "goalsFor": 74,
+            "goalsAgainst": 61,
+            "points": 66,
+            "goalDifference": 13,
+            "position": 5,
+            "notes": [
+              "The 5th placed team qualifies for the UEFA Europa League group stage."
+            ]
+          },
+          {
+            "team": {
+              "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738",
+              "name": "Chelsea",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127923/untitled-sports-project/team/337edadd-567f-4db8-9b2e-5d77a2898738.png"
+            },
+            "last5": [
+              {
+                "outcome": "win",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "fb6404df-ee0c-4335-a96e-57f4f16d753e"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-15T18:45:00.000Z",
+                "uuid": "c09f3ff7-8561-4368-b560-d40e61fdc44f"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-11T16:30:00.000Z",
+                "uuid": "e2494bb9-7850-4647-8d1e-d1f30a0cd5a4"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-05T13:00:00.000Z",
+                "uuid": "bcdf53a2-c16e-4478-b6af-d448d3e46857"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-02T18:30:00.000Z",
+                "uuid": "b58c9931-0fea-4f52-9cbd-614ce804c72f"
+              }
+            ],
+            "played": 38,
+            "wins": 18,
+            "draws": 9,
+            "losses": 11,
+            "goalsFor": 77,
+            "goalsAgainst": 63,
+            "points": 63,
+            "goalDifference": 14,
+            "position": 6,
+            "notes": [
+              "The 6th placed team qualifies for the UEFA Conference League play-off round."
+            ]
+          },
+          {
+            "team": {
+              "uuid": "9af50cf6-ea3b-4b31-adae-6c74b5e28324",
+              "name": "Newcastle United",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127931/untitled-sports-project/team/9af50cf6-ea3b-4b31-adae-6c74b5e28324.png"
+            },
+            "last5": [
+              {
+                "outcome": "win",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "5751cf68-e1be-4849-b4f8-b32d99a1fad0"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-15T19:00:00.000Z",
+                "uuid": "449f4b5f-f7c5-407f-90b1-803ec7b42756"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "f4241880-5d3c-4b04-a40c-7c194a7b7527"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-04T14:00:00.000Z",
+                "uuid": "f8b95be5-dab5-41aa-ad89-5897cfcb3d18"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-27T14:00:00.000Z",
+                "uuid": "4d2cc057-0e0c-4bb8-b407-97404a59cedf"
+              }
+            ],
+            "played": 38,
+            "wins": 18,
+            "draws": 6,
+            "losses": 14,
+            "goalsFor": 85,
+            "goalsAgainst": 62,
+            "points": 60,
+            "goalDifference": 23,
+            "position": 7,
+            "notes": []
+          },
+          {
+            "team": {
+              "uuid": "e8fb5cf5-a571-47c3-ae31-37dd37856f2b",
+              "name": "Manchester United",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127918/untitled-sports-project/team/e8fb5cf5-a571-47c3-ae31-37dd37856f2b.png"
+            },
+            "last5": [
+              {
+                "outcome": "win",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "b8c44268-139e-4fbd-8b55-98ccf43f6d96"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-15T19:00:00.000Z",
+                "uuid": "56448bbb-8a18-4175-9519-d095b7fdac4d"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-12T15:30:00.000Z",
+                "uuid": "80716ea9-2c48-471d-b2d9-1450e5cc25ba"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-06T19:00:00.000Z",
+                "uuid": "05d94971-e183-4831-883b-05ae69da80c7"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-04-27T14:00:00.000Z",
+                "uuid": "450d6f6f-5148-48d9-be96-a001d7296378"
+              }
+            ],
+            "played": 38,
+            "wins": 18,
+            "draws": 6,
+            "losses": 14,
+            "goalsFor": 57,
+            "goalsAgainst": 58,
+            "points": 60,
+            "goalDifference": -1,
+            "position": 8,
+            "notes": []
+          },
+          {
+            "team": {
+              "uuid": "4706cae4-bf30-428e-aac3-1535cfe5b98a",
+              "name": "West Ham United",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127933/untitled-sports-project/team/4706cae4-bf30-428e-aac3-1535cfe5b98a.png"
+            },
+            "last5": [
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "70be1baa-61f3-443e-9d54-95b6941514c3"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "ba9015fa-fd3e-478a-b8e9-052bb30538fd"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-05T13:00:00.000Z",
+                "uuid": "192567c9-bdb2-4c04-99e4-36801631a646"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-04-27T11:30:00.000Z",
+                "uuid": "e55da68d-f5a6-4fd1-845c-a138c251ca92"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-21T14:00:00.000Z",
+                "uuid": "3f41b42b-9e01-434c-a588-ac31052d7935"
+              }
+            ],
+            "played": 38,
+            "wins": 14,
+            "draws": 10,
+            "losses": 14,
+            "goalsFor": 60,
+            "goalsAgainst": 74,
+            "points": 52,
+            "goalDifference": -14,
+            "position": 9,
+            "notes": []
+          },
+          {
+            "team": {
+              "uuid": "e89b2356-2717-402c-a5dd-a2de821c6847",
+              "name": "Crystal Palace",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127934/untitled-sports-project/team/e89b2356-2717-402c-a5dd-a2de821c6847.png"
+            },
+            "last5": [
+              {
+                "outcome": "win",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "e2689ae4-a6d4-4d4a-8c01-204e9d7986ce"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "78b6ede8-cfcd-425e-895a-773addad3c0f"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-06T19:00:00.000Z",
+                "uuid": "ea47862e-8401-4ac5-aaac-c615b83d5396"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-04-27T14:00:00.000Z",
+                "uuid": "c34e4a33-0126-4d44-a4f6-978eb82e516e"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-24T19:00:00.000Z",
+                "uuid": "e962a710-7b9c-4564-895f-6e05cfcc1e4a"
+              }
+            ],
+            "played": 38,
+            "wins": 13,
+            "draws": 10,
+            "losses": 15,
+            "goalsFor": 57,
+            "goalsAgainst": 58,
+            "points": 49,
+            "goalDifference": -1,
+            "position": 10,
+            "notes": []
+          },
+          {
+            "team": {
+              "uuid": "70aa39f3-1bb5-4ee5-b9b5-2e4826ed4319",
+              "name": "Brighton & Hove Albion",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127925/untitled-sports-project/team/70aa39f3-1bb5-4ee5-b9b5-2e4826ed4319.png"
+            },
+            "last5": [
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "58e84a4a-e3bb-4f74-a4fb-33a95e448aa9"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-15T18:45:00.000Z",
+                "uuid": "fc2bcefe-2bfa-4328-8db5-98375d29cb63"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "993d7480-20d4-4839-a0a1-de9fceae837e"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-05T13:00:00.000Z",
+                "uuid": "51aeed1b-017c-4954-bb40-be13cde6b8f1"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-28T13:00:00.000Z",
+                "uuid": "7d22abb6-e02a-40cc-8c8b-33fb43b56c09"
+              }
+            ],
+            "played": 38,
+            "wins": 12,
+            "draws": 12,
+            "losses": 14,
+            "goalsFor": 55,
+            "goalsAgainst": 62,
+            "points": 48,
+            "goalDifference": -7,
+            "position": 11,
+            "notes": []
+          },
+          {
+            "team": {
+              "uuid": "7379a1e8-27e6-4b1f-8ff0-b29483cff826",
+              "name": "Bournemouth",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127924/untitled-sports-project/team/7379a1e8-27e6-4b1f-8ff0-b29483cff826.png"
+            },
+            "last5": [
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "ca168f4e-3327-423e-adb6-abad7c3857ec"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "1b37d697-2927-41c6-833d-a43551ac00c1"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-04T11:30:00.000Z",
+                "uuid": "b330f454-f56f-4ede-9226-45dc504333e0"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-28T13:00:00.000Z",
+                "uuid": "c0d25897-6cae-4c90-8c96-d275418017fd"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-24T18:45:00.000Z",
+                "uuid": "ece6db3f-b3df-4aee-ae4b-75a0a65a5971"
+              }
+            ],
+            "played": 38,
+            "wins": 13,
+            "draws": 9,
+            "losses": 16,
+            "goalsFor": 54,
+            "goalsAgainst": 67,
+            "points": 48,
+            "goalDifference": -13,
+            "position": 12,
+            "notes": []
+          },
+          {
+            "team": {
+              "uuid": "6917f9d1-ca7e-427a-8723-5046c6ace118",
+              "name": "Fulham",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127931/untitled-sports-project/team/6917f9d1-ca7e-427a-8723-5046c6ace118.png"
+            },
+            "last5": [
+              {
+                "outcome": "win",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "68bcdcfb-94c3-471f-8580-7344662bc8ef"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-11T11:30:00.000Z",
+                "uuid": "b49cda73-e468-437d-ba15-0046144dab49"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-05-04T14:00:00.000Z",
+                "uuid": "25a805e5-90d4-483d-b120-0a0673d392bb"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-04-27T14:00:00.000Z",
+                "uuid": "2f4d630e-ebc9-454b-ade6-968fd7acc481"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-21T15:30:00.000Z",
+                "uuid": "7a2492de-dc72-42a0-95d5-49c7fa48aa13"
+              }
+            ],
+            "played": 38,
+            "wins": 13,
+            "draws": 8,
+            "losses": 17,
+            "goalsFor": 55,
+            "goalsAgainst": 61,
+            "points": 47,
+            "goalDifference": -6,
+            "position": 13,
+            "notes": []
+          },
+          {
+            "team": {
+              "uuid": "28fe92b2-e2ee-4cff-98ad-c080116ecdc7",
+              "name": "Wolverhampton",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127932/untitled-sports-project/team/28fe92b2-e2ee-4cff-98ad-c080116ecdc7.png"
+            },
+            "last5": [
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "bde6d78e-87b9-46ac-b52a-a89b0afd9b7b"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "7940e410-0994-4128-9ef6-9b8920cac9e4"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-04T16:30:00.000Z",
+                "uuid": "fe0e453c-43fe-4a1a-9039-d0f8a2a2c0d3"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-27T14:00:00.000Z",
+                "uuid": "5a4304e2-6e09-4706-819c-69c0223f285f"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-24T18:45:00.000Z",
+                "uuid": "3f9b1ec1-7d92-4b98-b822-b18999fc8863"
+              }
+            ],
+            "played": 38,
+            "wins": 13,
+            "draws": 7,
+            "losses": 18,
+            "goalsFor": 50,
+            "goalsAgainst": 65,
+            "points": 46,
+            "goalDifference": -15,
+            "position": 14,
+            "notes": []
+          },
+          {
+            "team": {
+              "uuid": "0cde38af-c850-4739-8beb-3960e6ad0dbd",
+              "name": "Everton",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127921/untitled-sports-project/team/0cde38af-c850-4739-8beb-3960e6ad0dbd.png"
+            },
+            "last5": [
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "3aaa3d5a-d190-4db9-9411-3f9a892c8a3d"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "5db00f27-4049-4360-b641-b3fb1c23c90f"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-05-03T19:00:00.000Z",
+                "uuid": "fdce7f1c-22c9-43ee-ab8c-040ec70cacb5"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-27T16:30:00.000Z",
+                "uuid": "df44acc0-3db7-4f2d-8f73-39edf927ec46"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-24T19:00:00.000Z",
+                "uuid": "71a33daf-adb4-45ed-9ed3-14704fa94301"
+              }
+            ],
+            "played": 38,
+            "wins": 13,
+            "draws": 9,
+            "losses": 16,
+            "goalsFor": 40,
+            "goalsAgainst": 51,
+            "points": 40,
+            "goalDifference": -11,
+            "position": 15,
+            "notes": [
+              "Everton has been deducted ten points due to breaches of financial regulations, effective 17 Nov 2023. This decision is subject to appeal. [Premier League statement: _Everton FC deducted 10 points by independent Commission_](https://www.premierleague.com/news/3788486/)",
+              "Everton deducted a further two points for another Profitability and Sustainability Rules breach, effective 9 Apr 2024. [Sky Sports: _Everton deducted two points for breaching Premier League Profitability and Sustainability Rules for second time_](https://www.skysports.com/football/news/11671/13107642/everton-deducted-two-points-for-breaching-premier-league-profitability-and-sustainability-rules-for-second-time)",
+              "Everton points deduction reduced from 10 points to six after appeal, effective 26 Feb 2024. [BBC Sport: _Everton points deduction: Punishment reduced from 10 points to six after appeal_](https://www.bbc.co.uk/sport/football/68273436)"
+            ]
+          },
+          {
+            "team": {
+              "uuid": "7768b3f8-1937-4342-a631-ebc43f225bb5",
+              "name": "Brentford",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127922/untitled-sports-project/team/7768b3f8-1937-4342-a631-ebc43f225bb5.png"
+            },
+            "last5": [
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "f57b9b37-bf43-44e0-9b57-b52f7585fb75"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "1171b7fd-afa1-419f-8a60-12831328181a"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-05-04T14:00:00.000Z",
+                "uuid": "f388c9d3-4fda-495e-ab6b-7c75148822ac"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-27T16:30:00.000Z",
+                "uuid": "39690e37-a2f2-443e-b229-9cdb9ced4ea2"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-20T14:00:00.000Z",
+                "uuid": "699805bf-8b91-4cdb-b7ef-d4df4bbfb2a6"
+              }
+            ],
+            "played": 38,
+            "wins": 10,
+            "draws": 9,
+            "losses": 19,
+            "goalsFor": 56,
+            "goalsAgainst": 65,
+            "points": 39,
+            "goalDifference": -9,
+            "position": 16,
+            "notes": []
+          },
+          {
+            "team": {
+              "uuid": "a2ba509d-5295-490d-8050-1fc910da759d",
+              "name": "Nottingham Forest",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127927/untitled-sports-project/team/a2ba509d-5295-490d-8050-1fc910da759d.png"
+            },
+            "last5": [
+              {
+                "outcome": "win",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "82dff7f9-0e12-4191-adb8-35f413357119"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-11T16:30:00.000Z",
+                "uuid": "aecc715e-7563-42af-94ec-738ac1e64a0b"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-05-04T14:00:00.000Z",
+                "uuid": "36975b49-22f0-4a3a-84b7-7a7d1674b525"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-28T15:30:00.000Z",
+                "uuid": "598c0f9a-6db2-476a-b7bf-df7a6f15cea3"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-21T12:30:00.000Z",
+                "uuid": "55a89224-57b1-4852-9f18-923d102481d0"
+              }
+            ],
+            "played": 38,
+            "wins": 9,
+            "draws": 9,
+            "losses": 20,
+            "goalsFor": 49,
+            "goalsAgainst": 67,
+            "points": 32,
+            "goalDifference": -18,
+            "position": 17,
+            "notes": [
+              "Nottingham Forest docked four points for Premier League financial rules breach, effective 18 Mar 2024. [The Guardian: _Nottingham Forest docked four points for Premier League financial rules breach_](https://www.theguardian.com/football/2024/mar/18/nottingham-forest-docked-four-points-premier-league-financial-rules-breach-profitability-and-sustainability)"
+            ]
+          },
+          {
+            "team": {
+              "uuid": "cbd6b230-f539-4738-a589-c63b6262ccca",
+              "name": "Luton Town",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127929/untitled-sports-project/team/cbd6b230-f539-4738-a589-c63b6262ccca.png"
+            },
+            "last5": [
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "30a73e19-727e-47d7-a5e5-6374a7546d58"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "691ccaf0-bdab-43a6-92ad-d125ed5d3617"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-05-03T19:00:00.000Z",
+                "uuid": "48bc4ef5-62c4-42d0-a368-9a16e7930485"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-27T14:00:00.000Z",
+                "uuid": "45206148-60c6-4b3e-bae8-bcd58cd8e052"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-20T14:00:00.000Z",
+                "uuid": "f402c488-fe86-415a-8aa1-94a71ac132da"
+              }
+            ],
+            "played": 38,
+            "wins": 6,
+            "draws": 8,
+            "losses": 24,
+            "goalsFor": 52,
+            "goalsAgainst": 85,
+            "points": 26,
+            "goalDifference": -33,
+            "position": 18,
+            "notes": [
+              "Teams in positions 18 to 20 are relegated to the EFL Championship."
+            ]
+          },
+          {
+            "team": {
+              "uuid": "a7df2b83-000c-48eb-8bca-3b4e7255d4bc",
+              "name": "Burnley",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127920/untitled-sports-project/team/a7df2b83-000c-48eb-8bca-3b4e7255d4bc.png"
+            },
+            "last5": [
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "87e11a4e-8aea-48bf-a0d3-44c8aa3c2215"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "bfc7d6a7-9a7b-4fc1-bb27-5dfc45749cc7"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-04T14:00:00.000Z",
+                "uuid": "a1f865bc-f9e9-4e2f-87bd-e00c3f4d2e90"
+              },
+              {
+                "outcome": "draw",
+                "startDate": "2024-04-27T14:00:00.000Z",
+                "uuid": "29db3e22-7015-4a99-a361-f5883dac95c0"
+              },
+              {
+                "outcome": "win",
+                "startDate": "2024-04-20T14:00:00.000Z",
+                "uuid": "7da72cbb-68cd-4d19-93a3-ea590f7afd57"
+              }
+            ],
+            "played": 38,
+            "wins": 5,
+            "draws": 9,
+            "losses": 24,
+            "goalsFor": 41,
+            "goalsAgainst": 78,
+            "points": 24,
+            "goalDifference": -37,
+            "position": 19,
+            "notes": [
+              "Teams in positions 18 to 20 are relegated to the EFL Championship."
+            ]
+          },
+          {
+            "team": {
+              "uuid": "6d645f50-f8db-4f3d-ad4b-7b41f4d0371f",
+              "name": "Sheffield United",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127930/untitled-sports-project/team/6d645f50-f8db-4f3d-ad4b-7b41f4d0371f.png"
+            },
+            "last5": [
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-19T15:00:00.000Z",
+                "uuid": "33d0a771-a541-499b-bc81-aff21612462b"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-11T14:00:00.000Z",
+                "uuid": "c7332aca-6b85-456b-bb7d-7afd02cd65a9"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-05-04T14:00:00.000Z",
+                "uuid": "937f1c25-e4e7-4c74-873a-759db9302db5"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-27T14:00:00.000Z",
+                "uuid": "f25f295c-a501-41d6-8f37-67e9ad4bb25e"
+              },
+              {
+                "outcome": "loss",
+                "startDate": "2024-04-24T19:00:00.000Z",
+                "uuid": "a025110b-b90d-4ea9-8220-c5384c69a622"
+              }
+            ],
+            "played": 38,
+            "wins": 3,
+            "draws": 7,
+            "losses": 28,
+            "goalsFor": 35,
+            "goalsAgainst": 104,
+            "points": 16,
+            "goalDifference": -69,
+            "position": 20,
+            "notes": [
+              "Teams in positions 18 to 20 are relegated to the EFL Championship."
+            ]
+          }
+        ],
+        "group": {
+          "uuid": "eb01e67b-e6fc-4cc1-a4e8-cb9ea9ec94d6",
+          "name": "Premier League"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "data": {
+    "entityOne": {
+      "brandColor": "#0310a7",
+      "countryFrom": {
+        "acronym": "ENG",
+        "description": "country in north-west Europe, part of the United Kingdom",
+        "name": "England",
+        "fullName": "England",
+        "regionName": "Europe",
+        "subRegionName": "Northern Europe",
+        "slug": "england",
+        "uuid": "e981f263-7091-4bf5-867d-a4041e8880bd"
+      },
+      "description": null,
+      "entities": [
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 19,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128570/untitled-sports-project/player/061026f8-7e41-45e0-bb7c-a769d985d579.jpg",
+          "name": "Diego Moreira",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "F",
+          "slug": "diego-moreira",
+          "startDate": "2004-08-06T00:00:00.000Z",
+          "type": "player",
+          "uuid": "061026f8-7e41-45e0-bb7c-a769d985d579"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 42,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128559/untitled-sports-project/player/07a07930-5331-4b3f-8a47-3fc5e59936d6.jpg",
+          "name": "Alfie Gilchrist",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "alfie-gilchrist",
+          "startDate": "2003-11-28T00:00:00.000Z",
+          "type": "player",
+          "uuid": "07a07930-5331-4b3f-8a47-3fc5e59936d6"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 8,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128564/untitled-sports-project/player/0ae71b17-1d77-4cef-8560-df82542b597b.jpg",
+          "name": "Enzo Fernández",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "enzo-fernndez",
+          "startDate": "2001-01-17T00:00:00.000Z",
+          "type": "player",
+          "uuid": "0ae71b17-1d77-4cef-8560-df82542b597b"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 10,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128555/untitled-sports-project/player/0e72271d-41ce-4ec4-b484-93026868b01f.jpg",
+          "name": "Mykhaylo Mudryk",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "mykhaylo-mudryk",
+          "startDate": "2001-01-05T00:00:00.000Z",
+          "type": "player",
+          "uuid": "0e72271d-41ce-4ec4-b484-93026868b01f"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 45,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128570/untitled-sports-project/player/1134d6a9-b091-4e80-8c42-742a55911d8b.jpg",
+          "name": "Roméo Lavia",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "romo-lavia",
+          "startDate": "2004-01-06T00:00:00.000Z",
+          "type": "player",
+          "uuid": "1134d6a9-b091-4e80-8c42-742a55911d8b"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 33,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128563/untitled-sports-project/player/23bdf1a9-ce21-4df9-8f35-ecf8174df1df.jpg",
+          "name": "Wesley Fofana",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "wesley-fofana",
+          "startDate": "2000-12-17T00:00:00.000Z",
+          "type": "player",
+          "uuid": "23bdf1a9-ce21-4df9-8f35-ecf8174df1df"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 15,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128556/untitled-sports-project/player/28b63499-10ae-4c72-bb2e-d8fd7c1dc5d5.jpg",
+          "name": "Nicolas Jackson",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "F",
+          "slug": "nicolas-jackson",
+          "startDate": "2001-06-20T00:00:00.000Z",
+          "type": "player",
+          "uuid": "28b63499-10ae-4c72-bb2e-d8fd7c1dc5d5"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 27,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128566/untitled-sports-project/player/3a178b17-7576-40c7-97e2-19f30382b267.jpg",
+          "name": "Malo Gusto",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "malo-gusto",
+          "startDate": "2003-05-19T00:00:00.000Z",
+          "type": "player",
+          "uuid": "3a178b17-7576-40c7-97e2-19f30382b267"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 32,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128572/untitled-sports-project/player/431d6594-bd40-4840-b630-7af2c6b76ba0.jpg",
+          "name": "Malang Sarr",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "malang-sarr",
+          "startDate": "1999-01-23T00:00:00.000Z",
+          "type": "player",
+          "uuid": "431d6594-bd40-4840-b630-7af2c6b76ba0"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 25,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128552/untitled-sports-project/player/5524d8fa-6ebc-4b6c-a3c6-43d9700fd747.jpg",
+          "name": "Moisés Caicedo",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "moiss-caicedo",
+          "startDate": "2001-11-02T00:00:00.000Z",
+          "type": "player",
+          "uuid": "5524d8fa-6ebc-4b6c-a3c6-43d9700fd747"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 7,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128568/untitled-sports-project/player/5b9c2f08-dab6-4aa5-b1a8-11b04e6e08da.jpg",
+          "name": "Raheem Sterling",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "raheem-sterling",
+          "startDate": "1994-12-08T00:00:00.000Z",
+          "type": "player",
+          "uuid": "5b9c2f08-dab6-4aa5-b1a8-11b04e6e08da"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 5,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128551/untitled-sports-project/player/63783853-8ce9-4769-a7e0-66bc9e48bbb6.jpg",
+          "name": "Benoît Badiashile",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "benot-badiashile",
+          "startDate": "2001-03-26T00:00:00.000Z",
+          "type": "player",
+          "uuid": "63783853-8ce9-4769-a7e0-66bc9e48bbb6"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 17,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128569/untitled-sports-project/player/6956a289-93d7-4ad7-b55f-488ec4736b70.jpg",
+          "name": "Carney Chukwuemeka",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "carney-chukwuemeka",
+          "startDate": "2003-10-20T00:00:00.000Z",
+          "type": "player",
+          "uuid": "6956a289-93d7-4ad7-b55f-488ec4736b70"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 9,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128560/untitled-sports-project/player/6cd39dc5-f84d-49e0-a9e2-eee28c735d2c.jpg",
+          "name": "Deivid Washington",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "F",
+          "slug": "deivid-washington",
+          "startDate": "2005-06-05T00:00:00.000Z",
+          "type": "player",
+          "uuid": "6cd39dc5-f84d-49e0-a9e2-eee28c735d2c"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 21,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128561/untitled-sports-project/player/6d6d3a83-e53b-4581-a223-4bdceb635e7e.jpg",
+          "name": "Ben Chilwell",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "ben-chilwell",
+          "startDate": "1996-12-21T00:00:00.000Z",
+          "type": "player",
+          "uuid": "6d6d3a83-e53b-4581-a223-4bdceb635e7e"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 28,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128549/untitled-sports-project/player/8582af6f-3f46-40ba-913c-c846d7a9e758.jpg",
+          "name": "Đorđe Petrović",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "G",
+          "slug": "ore-petrovi",
+          "startDate": "1999-10-08T00:00:00.000Z",
+          "type": "player",
+          "uuid": "8582af6f-3f46-40ba-913c-c846d7a9e758"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 14,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128550/untitled-sports-project/player/957af1c2-3ed1-4838-9760-a6eccb0506bd.jpg",
+          "name": "Trevoh Chalobah",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "trevoh-chalobah",
+          "startDate": "1999-07-05T00:00:00.000Z",
+          "type": "player",
+          "uuid": "957af1c2-3ed1-4838-9760-a6eccb0506bd"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 20,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128555/untitled-sports-project/player/9593161f-f9d6-4bab-8e27-13318e662852.jpg",
+          "name": "Cole Palmer",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "cole-palmer",
+          "startDate": "2002-05-06T00:00:00.000Z",
+          "type": "player",
+          "uuid": "9593161f-f9d6-4bab-8e27-13318e662852"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 56,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128571/untitled-sports-project/player/9a215476-31e8-40a7-bef0-96018fae4883.jpg",
+          "name": "William Gee",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "william-gee",
+          "startDate": "2005-07-30T00:00:00.000Z",
+          "type": "player",
+          "uuid": "9a215476-31e8-40a7-bef0-96018fae4883"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 20,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128564/untitled-sports-project/player/b360de11-643b-4123-9425-2e51186c3ec7.jpg",
+          "name": "Cole Palmer",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "cole-palmer",
+          "startDate": "2002-05-06T00:00:00.000Z",
+          "type": "player",
+          "uuid": "b360de11-643b-4123-9425-2e51186c3ec7"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 24,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128562/untitled-sports-project/player/ba38afa7-72e1-4cc0-bdc1-1c2f1b663f55.jpg",
+          "name": "Reece James",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "reece-james",
+          "startDate": "1999-12-08T00:00:00.000Z",
+          "type": "player",
+          "uuid": "ba38afa7-72e1-4cc0-bdc1-1c2f1b663f55"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 18,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128560/untitled-sports-project/player/bd38aa40-6eeb-4dbf-a143-80f55a9d0b84.jpg",
+          "name": "Christopher Nkunku",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "F",
+          "slug": "christopher-nkunku",
+          "startDate": "1997-11-14T00:00:00.000Z",
+          "type": "player",
+          "uuid": "bd38aa40-6eeb-4dbf-a143-80f55a9d0b84"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 11,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128554/untitled-sports-project/player/c4740c8c-8932-4207-bb3e-936cb5aae233.jpg",
+          "name": "Noni Madueke",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "F",
+          "slug": "noni-madueke",
+          "startDate": "2002-03-10T00:00:00.000Z",
+          "type": "player",
+          "uuid": "c4740c8c-8932-4207-bb3e-936cb5aae233"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 23,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128553/untitled-sports-project/player/d31e9946-59de-45e2-a75d-9e3af8cc1535.jpg",
+          "name": "Conor Gallagher",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "conor-gallagher",
+          "startDate": "2000-02-06T00:00:00.000Z",
+          "type": "player",
+          "uuid": "d31e9946-59de-45e2-a75d-9e3af8cc1535"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 13,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128558/untitled-sports-project/player/dfb4dd27-a3a7-4290-be07-82a395946ff4.jpg",
+          "name": "Marcus Bettinelli",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "G",
+          "slug": "marcus-bettinelli",
+          "startDate": "1992-05-24T00:00:00.000Z",
+          "type": "player",
+          "uuid": "dfb4dd27-a3a7-4290-be07-82a395946ff4"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 16,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128567/untitled-sports-project/player/e0f55edb-417c-46b8-bfaf-3b0cafd72212.jpg",
+          "name": "Lesley Ugochukwu",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "lesley-ugochukwu",
+          "startDate": "2004-03-26T00:00:00.000Z",
+          "type": "player",
+          "uuid": "e0f55edb-417c-46b8-bfaf-3b0cafd72212"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 6,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128550/untitled-sports-project/player/e40d1082-fb4e-4580-bf79-f9c826be1b1b.jpg",
+          "name": "Thiago Silva",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "thiago-silva",
+          "startDate": "1984-09-22T00:00:00.000Z",
+          "type": "player",
+          "uuid": "e40d1082-fb4e-4580-bf79-f9c826be1b1b"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 26,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128565/untitled-sports-project/player/e465d12e-ad34-43af-8227-5b7bc28e1e8b.jpg",
+          "name": "Levi Colwill",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "levi-colwill",
+          "startDate": "2003-02-26T00:00:00.000Z",
+          "type": "player",
+          "uuid": "e465d12e-ad34-43af-8227-5b7bc28e1e8b"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 1,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128567/untitled-sports-project/player/eeb366ab-eb31-4a89-844d-ca7f07aa3db0.jpg",
+          "name": "Robert Sánchez",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "G",
+          "slug": "robert-snchez",
+          "startDate": "1997-11-18T00:00:00.000Z",
+          "type": "player",
+          "uuid": "eeb366ab-eb31-4a89-844d-ca7f07aa3db0"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 31,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128557/untitled-sports-project/player/f4af26bf-153c-4399-b333-33519f032b4c.jpg",
+          "name": "Cesare Casadei",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "M",
+          "slug": "cesare-casadei",
+          "startDate": "2003-01-10T00:00:00.000Z",
+          "type": "player",
+          "uuid": "f4af26bf-153c-4399-b333-33519f032b4c"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 2,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128557/untitled-sports-project/player/f8dbec66-8ba6-43af-8215-193f3bba337d.jpg",
+          "name": "Axel Disasi",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "axel-disasi",
+          "startDate": "1998-03-11T00:00:00.000Z",
+          "type": "player",
+          "uuid": "f8dbec66-8ba6-43af-8215-193f3bba337d"
+        },
+        {
+          "dataQuality": "preliminary",
+          "gender": "male",
+          "jerseyNumber": 3,
+          "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716128552/untitled-sports-project/player/f9c9950e-ba7b-4106-94ad-e550628fba12.jpg",
+          "name": "Marc Cucurella",
+          "parentTeam": {
+            "name": "Chelsea",
+            "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738"
+          },
+          "position": "D",
+          "slug": "marc-cucurella",
+          "startDate": "1998-07-22T00:00:00.000Z",
+          "type": "player",
+          "uuid": "f9c9950e-ba7b-4106-94ad-e550628fba12"
+        }
+      ],
+      "fullName": "Chelsea",
+      "gender": "male",
+      "location": {
+        "capacity": 40341,
+        "city": "London",
+        "country": {
+          "name": "England",
+          "uuid": "e981f263-7091-4bf5-867d-a4041e8880bd"
+        },
+        "description": null,
+        "name": "Stamford Bridge",
+        "slug": "stamford-bridge",
+        "uuid": "5a5f3837-0b21-4d24-90f1-ed89da966250"
+      },
+      "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127923/untitled-sports-project/team/337edadd-567f-4db8-9b2e-5d77a2898738.png",
+      "name": "Chelsea",
+      "nicknames": [],
+      "secondaryBrandColor": "#ffffff",
+      "shortName": "Chelsea",
+      "slug": "chelsea",
+      "startDate": "1905-03-10T00:00:00.000Z",
+      "type": "team",
+      "uuid": "337edadd-567f-4db8-9b2e-5d77a2898738",
+      "website": null
+    }
+  }
+}
