@@ -1,32 +1,19 @@
 ### Boston Celtics vs. Cleveland Cavaliers Match Report
 
 **Game Overview:**
-The Boston Celtics secured a decisive 113-98 victory over the Cleveland Cavaliers in the Eastern Conference semifinals, played at TD Garden on May 15, 2024. The win saw the Celtics advance further in the NBA 23/24 season playoffs.
 
-**First Quarter:**
-The first quarter was a balanced affair, ending 28-28. Both teams showcased their offensive capabilities, with notable three-pointers from Boston’s Jaylen Brown and Derrick White, and Cleveland’s Max Strus. The Celtics had a slight edge in rebounds and assists, but the Cavaliers kept pace with their effective field goal percentage.
+The Boston Celtics secured a 113-98 victory over the Cleveland Cavaliers in the Eastern Conference semifinals held at TD Garden in Boston, MA on May 15, 2024. The victory ensured the Celtics' advancement to the conference finals, winning the series 4-1.
 
-**Second Quarter:**
-The Celtics began to pull away in the second quarter, outscoring the Cavaliers 30-24. Jayson Tatum’s efficiency was critical, contributing to Boston's increased lead. The Celtics excelled in both offensive and defensive rebounds, limiting Cleveland's second-chance opportunities.
+The game started evenly, with both teams trading baskets. The first quarter ended with the Celtics leading 28-28. In the second quarter, Boston began to build a lead, entering halftime with a 58-52 advantage.
 
-**Third Quarter:**
-Boston continued to dominate in the third quarter, scoring 25 points to Cleveland’s 22. Al Horford was influential, scoring multiple crucial points and securing several rebounds. The Cavaliers struggled to close the gap as the Celtics' defensive pressure intensified.
+Jayson Tatum was the standout player for Boston, contributing 25 points, 10 rebounds, and 9 assists. His performance was instrumental in maintaining and extending the Celtics' lead throughout the game. Al Horford also played a key role, scoring 22 points and securing 15 rebounds, including 7 offensive rebounds.
 
-**Fourth Quarter:**
-The final quarter saw the Celtics cement their victory, scoring 30 points against the Cavaliers' 24. The Celtics' bench, including contributions from Sam Hauser and Luke Kornet, provided significant support. Jayson Tatum continued to lead by example, finishing the game with 25 points and 10 rebounds.
+The third quarter saw Boston further extend their lead. They outscored the Cavaliers 27-19 in this period, entering the final quarter with an 85-71 lead. Derrick White added 18 points for Boston, while Jaylen Brown and Jrue Holiday chipped in with 11 and 13 points respectively.
 
-**Key Players:**
+Cleveland struggled to keep pace with Boston's scoring. Evan Mobley was the top performer for the Cavaliers, scoring 33 points and grabbing 7 rebounds. However, his efforts were not enough to close the gap. Marcus Morris scored 25 points, showing efficiency with 10 out of 13 field goals made. Darius Garland contributed 11 points and 9 assists but struggled with shooting accuracy, making only 4 of his 17 attempts.
 
-- **Jayson Tatum (Boston Celtics):** Tatum was the standout performer with 25 points, 10 rebounds, and 9 assists.
-- **Al Horford (Boston Celtics):** Horford contributed 22 points, 15 rebounds, and 3 blocks, showcasing his defensive prowess.
-- **Derrick White (Boston Celtics):** White added 18 points, with a notable contribution from beyond the arc.
-- **Evan Mobley (Cleveland Cavaliers):** Mobley led the Cavaliers with 33 points and 7 rebounds, despite the team's overall struggle.
-- **Marcus Morris (Cleveland Cavaliers):** Morris was efficient, scoring 25 points with a high field goal percentage.
+Despite some strong individual performances, Cleveland's overall shooting percentage was lower than Boston's. The Celtics made 42 of their 80 field goal attempts, while the Cavaliers converted 38 of 79. Boston's defense also proved effective, forcing 10 turnovers and making 6 steals.
 
-**Team Statistics:**
+The Celtics' bench contributed effectively, with notable performances from Sam Hauser and Payton Pritchard. Hauser scored 5 points and grabbed 4 rebounds, while Pritchard added 11 points, including 3 three-pointers.
 
-- **Boston Celtics:** Dominated in rebounds (43), assists (32), and field goals made (42). Their defensive strategy led to 6 blocks and 6 steals, contributing to their victory.
-- **Cleveland Cavaliers:** Had a total of 28 rebounds and 25 assists. They struggled with turnovers (10) and fouls (16), impacting their performance.
-
-**Conclusion:**
-The Boston Celtics' cohesive team play and strategic defense were pivotal in their victory over the Cleveland Cavaliers. The Celtics' ability to capitalize on rebounds and assists, coupled with standout performances from Tatum and Horford, ensured their progression in the playoffs. The Cavaliers, despite strong individual efforts, could not match the Celtics' overall team execution.
+Boston's consistent scoring and defensive efforts were key to their victory. The team showed resilience and teamwork, ensuring they maintained their lead and secured the win. The Celtics now advance to the conference finals, continuing their strong playoff run under the guidance of coach Joe Mazzulla.
