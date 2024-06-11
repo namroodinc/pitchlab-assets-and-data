@@ -1,1 +1,2216 @@
-
+{
+  "data": {
+    "footballLeagueMatrix": [
+      {
+        "group": "eb01e67b-e6fc-4cc1-a4e8-cb9ea9ec94d6",
+        "matrix": [
+          [
+            {
+              "name": ""
+            },
+            {
+              "name": "Arsenal",
+              "acronym": "ARS",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127926/untitled-sports-project/team/954a3f57-5ad9-448c-90ef-3f968324f993.png"
+            },
+            {
+              "name": "Aston Villa",
+              "acronym": "AVL",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127922/untitled-sports-project/team/bdc5a7ee-52cc-46f8-b7f8-b95353575cf5.png"
+            },
+            {
+              "name": "Bournemouth",
+              "acronym": "BOU",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127924/untitled-sports-project/team/7379a1e8-27e6-4b1f-8ff0-b29483cff826.png"
+            },
+            {
+              "name": "Brentford",
+              "acronym": "BRE",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127922/untitled-sports-project/team/7768b3f8-1937-4342-a631-ebc43f225bb5.png"
+            },
+            {
+              "name": "Brighton & Hove Albion",
+              "acronym": "BHA",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127925/untitled-sports-project/team/70aa39f3-1bb5-4ee5-b9b5-2e4826ed4319.png"
+            },
+            {
+              "name": "Burnley",
+              "acronym": "BUR",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127920/untitled-sports-project/team/a7df2b83-000c-48eb-8bca-3b4e7255d4bc.png"
+            },
+            {
+              "name": "Chelsea",
+              "acronym": "CHE",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127923/untitled-sports-project/team/337edadd-567f-4db8-9b2e-5d77a2898738.png"
+            },
+            {
+              "name": "Crystal Palace",
+              "acronym": "CRY",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127934/untitled-sports-project/team/e89b2356-2717-402c-a5dd-a2de821c6847.png"
+            },
+            {
+              "name": "Everton",
+              "acronym": "EVE",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127921/untitled-sports-project/team/0cde38af-c850-4739-8beb-3960e6ad0dbd.png"
+            },
+            {
+              "name": "Fulham",
+              "acronym": "FUL",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127931/untitled-sports-project/team/6917f9d1-ca7e-427a-8723-5046c6ace118.png"
+            },
+            {
+              "name": "Liverpool",
+              "acronym": "LIV",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127934/untitled-sports-project/team/2183fa54-5545-4f57-919d-a6e9a44f867b.png"
+            },
+            {
+              "name": "Luton Town",
+              "acronym": "LUT",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127929/untitled-sports-project/team/cbd6b230-f539-4738-a589-c63b6262ccca.png"
+            },
+            {
+              "name": "Manchester City",
+              "acronym": "MCI",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127928/untitled-sports-project/team/0427b056-539d-4b6f-9ead-24ca81e01b92.png"
+            },
+            {
+              "name": "Manchester United",
+              "acronym": "MUN",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127918/untitled-sports-project/team/e8fb5cf5-a571-47c3-ae31-37dd37856f2b.png"
+            },
+            {
+              "name": "Newcastle United",
+              "acronym": "NEW",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127931/untitled-sports-project/team/9af50cf6-ea3b-4b31-adae-6c74b5e28324.png"
+            },
+            {
+              "name": "Nottingham Forest",
+              "acronym": "NFO",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127927/untitled-sports-project/team/a2ba509d-5295-490d-8050-1fc910da759d.png"
+            },
+            {
+              "name": "Sheffield United",
+              "acronym": "SHU",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127930/untitled-sports-project/team/6d645f50-f8db-4f3d-ad4b-7b41f4d0371f.png"
+            },
+            {
+              "name": "Tottenham Hotspur",
+              "acronym": "TOT",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127925/untitled-sports-project/team/bd25e56d-22c8-4a59-9975-91a98185fe0d.png"
+            },
+            {
+              "name": "West Ham United",
+              "acronym": "WHU",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127933/untitled-sports-project/team/4706cae4-bf30-428e-aac3-1535cfe5b98a.png"
+            },
+            {
+              "name": "Wolverhampton",
+              "acronym": "WOL",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127932/untitled-sports-project/team/28fe92b2-e2ee-4cff-98ad-c080116ecdc7.png"
+            }
+          ],
+          [
+            {
+              "name": "Arsenal",
+              "acronym": "ARS",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127926/untitled-sports-project/team/954a3f57-5ad9-448c-90ef-3f968324f993.png"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "a77bab4b-3aa5-4a45-be85-effee14cc458",
+              "eventStartDate": "2024-04-14T15:30:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "bcc197bd-d287-4a28-9155-aa9e2642259b",
+              "eventStartDate": "2024-05-04T11:30:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "e308a60b-13c7-4a01-b50f-34e824190051",
+              "eventStartDate": "2024-03-09T17:30:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "4115ce78-b0a2-4d0f-9d94-471d593a41d1",
+              "eventStartDate": "2023-12-17T14:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "550d8147-c7e0-4471-8891-b107c9d5cde6",
+              "eventStartDate": "2023-11-11T15:00:00.000Z"
+            },
+            {
+              "score": "5-0",
+              "eventUuid": "5df9161c-f7d3-4874-966f-09969cb3c35a",
+              "eventStartDate": "2024-04-23T19:00:00.000Z"
+            },
+            {
+              "score": "5-0",
+              "eventUuid": "991fa521-d0b3-4891-b1bf-624a6bdb5c11",
+              "eventStartDate": "2024-01-20T12:30:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "ce40afa1-d894-475b-ad63-72768bf3791e",
+              "eventStartDate": "2024-05-19T15:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "87dba16a-9b1c-4e81-bb9d-6bbf26f456ba",
+              "eventStartDate": "2023-08-26T14:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "20c2f19b-b419-49c9-872f-f98776b30740",
+              "eventStartDate": "2024-02-04T16:30:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "46c46465-0d49-4db7-9357-6f9a361d032f",
+              "eventStartDate": "2024-04-03T18:30:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "9dcd3170-af37-4630-9dc5-f7e492ec20de",
+              "eventStartDate": "2023-10-08T15:30:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "8e17db75-98fb-4198-919d-66473e9aa46c",
+              "eventStartDate": "2023-09-03T15:30:00.000Z"
+            },
+            {
+              "score": "4-1",
+              "eventUuid": "0ceaba8c-f54e-45e9-bd01-75cbf26ef7c5",
+              "eventStartDate": "2024-02-24T20:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "2210b6b9-20b0-4f3d-8844-6c3d2a1a8ec7",
+              "eventStartDate": "2023-08-12T12:00:00.000Z"
+            },
+            {
+              "score": "5-0",
+              "eventUuid": "67b6fc32-a142-4c23-a982-a4db9c2fd20b",
+              "eventStartDate": "2023-10-28T14:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "b36ab654-b06b-4c11-ade5-dd00c9ac8f7e",
+              "eventStartDate": "2023-09-24T13:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "dd873958-53dc-4bf0-b517-6f6714c897e8",
+              "eventStartDate": "2023-12-28T20:15:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "21250f98-bf73-43a2-a996-84302ca5a7b5",
+              "eventStartDate": "2023-12-02T15:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Aston Villa",
+              "acronym": "AVL",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127922/untitled-sports-project/team/bdc5a7ee-52cc-46f8-b7f8-b95353575cf5.png"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "0a3ccc16-31f6-46d6-9b3b-a25dcdaf7e31",
+              "eventStartDate": "2023-12-09T17:30:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "f9207b87-a4cb-405e-bbb6-3d217b1d94ca",
+              "eventStartDate": "2024-04-21T14:00:00.000Z"
+            },
+            {
+              "score": "3-3",
+              "eventUuid": "b9aeac11-7e8f-40a4-9d27-49fdf994a2ff",
+              "eventStartDate": "2024-04-06T14:00:00.000Z"
+            },
+            {
+              "score": "6-1",
+              "eventUuid": "b3d6ec5a-092b-422b-8771-aa82ef2acb99",
+              "eventStartDate": "2023-09-30T11:30:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "1fefd8db-9d3d-4635-80f1-2273adb49ca4",
+              "eventStartDate": "2023-12-30T15:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "0a985005-29b2-4fb1-966f-0123a75451f5",
+              "eventStartDate": "2024-04-27T19:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "cd701bc0-6ad1-4dac-96eb-1435ecfc8b17",
+              "eventStartDate": "2023-09-16T14:00:00.000Z"
+            },
+            {
+              "score": "4-0",
+              "eventUuid": "bdfeacf7-a13c-4ecb-a47e-c4a65ae74913",
+              "eventStartDate": "2023-08-20T13:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "b630fc8c-1044-400f-9101-e05d5b0d42f3",
+              "eventStartDate": "2023-11-12T14:00:00.000Z"
+            },
+            {
+              "score": "3-3",
+              "eventUuid": "2499a092-814e-4fec-b870-46cbc26ca93c",
+              "eventStartDate": "2024-05-13T19:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "107e281d-dd96-4503-8d8e-ad5b213bf05b",
+              "eventStartDate": "2023-10-29T14:00:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "b885a610-1163-4507-9dbd-6eb1b9655adf",
+              "eventStartDate": "2023-12-06T20:15:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "2a7f843d-1aa4-4019-8449-e94fcfaf042c",
+              "eventStartDate": "2024-02-11T16:30:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "41dd6da3-245d-48de-b2eb-736174b31615",
+              "eventStartDate": "2024-01-30T20:15:00.000Z"
+            },
+            {
+              "score": "4-2",
+              "eventUuid": "dbd074bd-3535-475e-96e7-94f171ac1227",
+              "eventStartDate": "2024-02-24T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "4d68d5cb-1407-4e85-846a-82958c1a924b",
+              "eventStartDate": "2023-12-22T20:00:00.000Z"
+            },
+            {
+              "score": "0-4",
+              "eventUuid": "db3aa558-8f1a-4b1d-a6d5-db2d96899ff7",
+              "eventStartDate": "2024-03-10T13:00:00.000Z"
+            },
+            {
+              "score": "4-1",
+              "eventUuid": "23c37f6c-c857-4af8-b14a-c78ddc12f2ad",
+              "eventStartDate": "2023-10-22T15:30:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "ab730a79-22c7-49cd-bc93-2532e2963cd0",
+              "eventStartDate": "2024-03-30T17:30:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Bournemouth",
+              "acronym": "BOU",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127924/untitled-sports-project/team/7379a1e8-27e6-4b1f-8ff0-b29483cff826.png"
+            },
+            {
+              "score": "0-4",
+              "eventUuid": "d88f3355-b6e9-410b-a3fd-cb9e6b011ec7",
+              "eventStartDate": "2023-09-30T14:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "32c70633-b961-4480-962c-fa7eb91dde9c",
+              "eventStartDate": "2023-12-03T14:00:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "36d07d6b-0453-435b-938c-a7023f8b0f26",
+              "eventStartDate": "2024-05-11T14:00:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "1779d901-e141-4178-a786-0091386cf181",
+              "eventStartDate": "2024-04-28T13:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "a5541863-22fa-4ea9-a78d-281896f52255",
+              "eventStartDate": "2023-10-28T14:00:00.000Z"
+            },
+            {
+              "score": "0-0",
+              "eventUuid": "67f20772-26ba-4d21-9a7b-576d03040373",
+              "eventStartDate": "2023-09-17T13:00:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "4c84b940-dd76-4e7a-a18a-fddb7202e8c1",
+              "eventStartDate": "2024-04-02T18:45:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "f88a4b45-2174-4370-a0ca-3f6b1a26151c",
+              "eventStartDate": "2024-03-30T15:00:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "1d7f59a4-b166-4c35-9745-ce0c57c849a8",
+              "eventStartDate": "2023-12-26T15:00:00.000Z"
+            },
+            {
+              "score": "0-4",
+              "eventUuid": "95dee5b5-c3b4-4bd8-a264-0ad235d527e1",
+              "eventStartDate": "2024-01-21T16:30:00.000Z"
+            },
+            {
+              "score": "4-3",
+              "eventUuid": "ba64e379-39b4-4277-86a1-bc615e01cde2",
+              "eventStartDate": "2024-03-13T19:30:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "ee74cc16-360d-47c3-b3c7-56864e2990b4",
+              "eventStartDate": "2024-02-24T17:30:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "695e0ccf-e68d-4d78-8119-d8626394eeb1",
+              "eventStartDate": "2024-04-13T16:30:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "659d40b8-c35f-4309-8d7a-7e32dfb3dc62",
+              "eventStartDate": "2023-11-11T17:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "b19ea164-1c74-4bc4-b6e5-cf6a8736e62c",
+              "eventStartDate": "2024-02-04T14:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "9e37a728-ba43-4c8f-b8bb-3a0c12619bc9",
+              "eventStartDate": "2024-03-09T15:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "d67963a4-519c-4d41-bd47-1a6203a05166",
+              "eventStartDate": "2023-08-26T11:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "9dbcd8c2-b1bb-458b-8f57-2b8bef7b8195",
+              "eventStartDate": "2023-08-12T14:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "fc6fb55a-7ae5-4c68-b3dc-a88dc972b240",
+              "eventStartDate": "2023-10-21T14:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Brentford",
+              "acronym": "BRE",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127922/untitled-sports-project/team/7768b3f8-1937-4342-a631-ebc43f225bb5.png"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "3b3ccd09-b966-42d5-a274-46c77dbf6438",
+              "eventStartDate": "2023-11-25T17:30:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "ef635861-6878-4a71-8f23-842a688623ee",
+              "eventStartDate": "2023-12-17T14:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "f9c88256-ce2e-49e4-8735-4ee3656e1501",
+              "eventStartDate": "2023-09-02T14:00:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "0-0",
+              "eventUuid": "0423ed51-7e5a-4027-9c9c-d8fdc8e4089e",
+              "eventStartDate": "2024-04-03T18:30:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "0a0c3be2-4656-4f46-af98-b7224b5cf81b",
+              "eventStartDate": "2023-10-21T14:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "04526d82-1392-4747-97b8-3c1039d6138b",
+              "eventStartDate": "2024-03-02T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "080427f8-72a4-44bd-b4c0-8f36f2ad1f78",
+              "eventStartDate": "2023-08-26T14:00:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "380ce4a8-28e2-4344-9cf6-88dab73e3f46",
+              "eventStartDate": "2023-09-23T16:30:00.000Z"
+            },
+            {
+              "score": "0-0",
+              "eventUuid": "0c8c5eb0-ab9c-4510-9e71-b137605bd99b",
+              "eventStartDate": "2024-05-04T14:00:00.000Z"
+            },
+            {
+              "score": "1-4",
+              "eventUuid": "6a2f792d-d1b0-4ba6-b9aa-c3b7b8f6bb84",
+              "eventStartDate": "2024-02-17T12:30:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "f17c343e-8d07-451a-8755-69bf71dc39b0",
+              "eventStartDate": "2023-12-02T15:00:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "dff45b6a-48b5-4451-9774-a4c627289c91",
+              "eventStartDate": "2024-02-05T20:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "6734eda0-9022-4daf-a0da-c1599adde768",
+              "eventStartDate": "2024-03-30T20:00:00.000Z"
+            },
+            {
+              "score": "2-4",
+              "eventUuid": "dd8815d7-9883-4565-9495-bbd53ebc9909",
+              "eventStartDate": "2024-05-19T15:00:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "9d169b72-7aa9-4a0a-83fe-d7ccbadf1be3",
+              "eventStartDate": "2024-01-20T17:30:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "511d96b2-b52a-4b9a-9feb-27c397845d5f",
+              "eventStartDate": "2024-04-13T14:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "159f5015-a751-4742-b7d5-fcf8838dae64",
+              "eventStartDate": "2023-08-13T13:00:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "c1fa4a4a-1bad-4f6e-af39-a0dc0ed1e14e",
+              "eventStartDate": "2023-11-04T15:00:00.000Z"
+            },
+            {
+              "score": "1-4",
+              "eventUuid": "10e50f70-7d79-4753-9686-34025358784a",
+              "eventStartDate": "2023-12-27T19:30:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Brighton & Hove Albion",
+              "acronym": "BHA",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127925/untitled-sports-project/team/70aa39f3-1bb5-4ee5-b9b5-2e4826ed4319.png"
+            },
+            {
+              "score": "0-3",
+              "eventUuid": "f6d35100-94ee-4f23-b56a-63729f929026",
+              "eventStartDate": "2024-04-06T16:30:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "7d462056-2f8f-49f5-8171-3c3e68351f80",
+              "eventStartDate": "2024-05-05T13:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "6222a2f6-b812-487e-95e5-6f9d4663915d",
+              "eventStartDate": "2023-09-24T13:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "5485ef52-2fd9-4199-aadc-0661dff0e891",
+              "eventStartDate": "2023-12-06T19:30:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "026d6dc9-681b-4e56-9e5f-13b0749309e9",
+              "eventStartDate": "2023-12-09T15:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "e5354a73-b5b5-45cc-b68d-f626b5c3e713",
+              "eventStartDate": "2024-05-15T18:45:00.000Z"
+            },
+            {
+              "score": "4-1",
+              "eventUuid": "7ae7866e-c13a-4daa-99c4-4706dfdd84d6",
+              "eventStartDate": "2024-02-03T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "abf978d2-c4f5-40f0-a61e-29a9929023e4",
+              "eventStartDate": "2024-02-24T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "93ecda0c-572e-4af5-92bc-ea6aa7c7d997",
+              "eventStartDate": "2023-10-29T14:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "4e4477f1-e888-49fc-a3b3-74d07ef99699",
+              "eventStartDate": "2023-10-08T13:00:00.000Z"
+            },
+            {
+              "score": "4-1",
+              "eventUuid": "ddf47ca3-a22e-4b7e-9e40-ae319b1f98e9",
+              "eventStartDate": "2023-08-12T14:00:00.000Z"
+            },
+            {
+              "score": "0-4",
+              "eventUuid": "9a46bc25-7340-4e1c-9282-2280bf00ae94",
+              "eventStartDate": "2024-04-25T19:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "53462fb3-1916-4120-8ee4-ab381c416ce6",
+              "eventStartDate": "2024-05-19T15:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "357389e4-866d-4e76-81e6-7be744b67ab5",
+              "eventStartDate": "2023-09-02T16:30:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "3330be37-e011-4fc4-b7aa-2cf70f6538c7",
+              "eventStartDate": "2024-03-10T14:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "80b0008d-baae-4b89-9350-9b76ef477976",
+              "eventStartDate": "2023-11-12T14:00:00.000Z"
+            },
+            {
+              "score": "4-2",
+              "eventUuid": "5410b769-f1d3-4335-970e-955455e73ed6",
+              "eventStartDate": "2023-12-28T19:30:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "ac5e8150-971d-4b85-a071-6137708299e7",
+              "eventStartDate": "2023-08-26T16:30:00.000Z"
+            },
+            {
+              "score": "0-0",
+              "eventUuid": "98ee5ef6-a5d4-41fe-aea2-270af041b228",
+              "eventStartDate": "2024-01-22T19:45:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Burnley",
+              "acronym": "BUR",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127920/untitled-sports-project/team/a7df2b83-000c-48eb-8bca-3b4e7255d4bc.png"
+            },
+            {
+              "score": "0-5",
+              "eventUuid": "0508e3ee-44df-4e14-8fba-8b8563329c0b",
+              "eventStartDate": "2024-02-17T15:00:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "b1b471c6-d1f7-428a-92f4-15b676eee925",
+              "eventStartDate": "2023-08-27T13:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "9d832a95-6cf2-4eb2-a3c5-271dffb9bbd0",
+              "eventStartDate": "2024-03-03T13:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "9297f28f-84b5-4f40-8758-1ef529204d25",
+              "eventStartDate": "2024-03-16T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "b736940e-eb82-435f-9074-80585653cfee",
+              "eventStartDate": "2024-04-13T14:00:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "1-4",
+              "eventUuid": "e65f56f4-fbec-411e-8c9c-a8693173872d",
+              "eventStartDate": "2023-10-07T14:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "adeda795-83b5-466f-a960-59d439905169",
+              "eventStartDate": "2023-11-04T15:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "8e200879-e272-475a-ac57-38799299fcc8",
+              "eventStartDate": "2023-12-16T17:30:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "10ccb89d-b02b-48bf-9cb5-d79f34e1064c",
+              "eventStartDate": "2024-02-03T15:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "1efaf609-afd1-4c44-bfe7-856bcf7b005e",
+              "eventStartDate": "2023-12-26T17:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "ccbea420-8889-4dde-8f11-1a2f208dbd3f",
+              "eventStartDate": "2024-01-12T19:45:00.000Z"
+            },
+            {
+              "score": "0-3",
+              "eventUuid": "5090a8a2-f69c-4da6-834e-fc513b52692a",
+              "eventStartDate": "2023-08-11T19:00:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "576ebc1b-05d4-4eef-8cdc-09a14d6f821a",
+              "eventStartDate": "2023-09-23T19:00:00.000Z"
+            },
+            {
+              "score": "1-4",
+              "eventUuid": "b5be47d5-2350-4270-885b-6aaddac45964",
+              "eventStartDate": "2024-05-04T14:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "ccf4f111-eeb3-4a78-99af-b867f65994bd",
+              "eventStartDate": "2024-05-19T15:00:00.000Z"
+            },
+            {
+              "score": "5-0",
+              "eventUuid": "5b413224-ab5b-410d-bea8-ee611187d0b9",
+              "eventStartDate": "2023-12-02T15:00:00.000Z"
+            },
+            {
+              "score": "2-5",
+              "eventUuid": "e9cd3fd8-b8c8-43c4-8459-a59db3b46778",
+              "eventStartDate": "2023-09-02T14:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "07e240fd-0a13-4ea5-adf5-322a9b5ec47d",
+              "eventStartDate": "2023-11-25T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "389f7ee3-6f68-41c9-9f68-a6f8661c34da",
+              "eventStartDate": "2024-04-02T18:45:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Chelsea",
+              "acronym": "CHE",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127923/untitled-sports-project/team/337edadd-567f-4db8-9b2e-5d77a2898738.png"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "3e1a156f-d86f-4684-9aea-5aeb76f74adf",
+              "eventStartDate": "2023-10-21T16:30:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "dffa351f-61f4-4247-a69a-687ab183124c",
+              "eventStartDate": "2023-09-24T13:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "e4f8b698-9b07-4d78-81e4-2dc0654fd066",
+              "eventStartDate": "2024-05-19T15:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "4fe13652-f6f7-416c-a274-e814ad89addc",
+              "eventStartDate": "2023-10-28T11:30:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "2798b4bd-203f-4476-a802-36ae9cc22bc1",
+              "eventStartDate": "2023-12-03T14:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "e369462b-cf3f-4517-b433-be2d72f22ee9",
+              "eventStartDate": "2024-03-30T15:00:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "f5dd993d-828a-46f6-9258-3cb1962f8448",
+              "eventStartDate": "2023-12-27T19:30:00.000Z"
+            },
+            {
+              "score": "6-0",
+              "eventUuid": "1fa449b4-1431-4993-85f7-14553905e117",
+              "eventStartDate": "2024-04-15T19:00:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "22958040-9c6a-4e72-a34d-de63c5c9a79a",
+              "eventStartDate": "2024-01-13T12:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "6d1862b8-23d2-45be-8b37-235f2c6c32b0",
+              "eventStartDate": "2023-08-13T15:30:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "03607ba3-d4ca-4d59-96cf-376fc984ba5d",
+              "eventStartDate": "2023-08-25T19:00:00.000Z"
+            },
+            {
+              "score": "4-4",
+              "eventUuid": "8fa97916-1849-47a5-8cc7-27fa72c6b4ee",
+              "eventStartDate": "2023-11-12T16:30:00.000Z"
+            },
+            {
+              "score": "4-3",
+              "eventUuid": "ac88e8fb-68b2-45e8-b7a8-63ef606ff1df",
+              "eventStartDate": "2024-04-04T19:15:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "2f3a5646-724a-42d2-af87-83b1d811cacd",
+              "eventStartDate": "2024-03-11T20:00:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "0c9af68f-1d1d-439c-8111-f80f021e42dc",
+              "eventStartDate": "2023-09-02T14:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "878c8daa-ded5-4750-8739-7756087cc158",
+              "eventStartDate": "2023-12-16T15:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "e2dfa7aa-3c86-4de7-9bba-400d6b94bad5",
+              "eventStartDate": "2024-05-02T18:30:00.000Z"
+            },
+            {
+              "score": "5-0",
+              "eventUuid": "e1de2327-179e-4c21-89b0-a95c51113c09",
+              "eventStartDate": "2024-05-05T13:00:00.000Z"
+            },
+            {
+              "score": "2-4",
+              "eventUuid": "c3643ccd-bd76-4f44-b96b-37bc2a590cb4",
+              "eventStartDate": "2024-02-04T14:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Crystal Palace",
+              "acronym": "CRY",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127934/untitled-sports-project/team/e89b2356-2717-402c-a5dd-a2de821c6847.png"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "1ed4a5ef-96c3-4cc3-b8ff-766e4a9387b2",
+              "eventStartDate": "2023-08-21T19:00:00.000Z"
+            },
+            {
+              "score": "5-0",
+              "eventUuid": "8f74c5e5-4eb7-4612-9438-2c0a5e626ac0",
+              "eventStartDate": "2024-05-19T15:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "53cf4cf9-b802-4303-afc6-97f987d39880",
+              "eventStartDate": "2023-12-06T19:30:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "93c2e6b8-8402-4572-9292-2eda71c6ca4c",
+              "eventStartDate": "2023-12-30T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "125ab361-c273-4b1f-aefc-ff1fcc143992",
+              "eventStartDate": "2023-12-21T20:00:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "d8bd96b1-1d6a-49ec-87ec-0799ada9b045",
+              "eventStartDate": "2024-02-24T15:00:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "f084c95c-b8c2-40b1-b6b0-820c24763a32",
+              "eventStartDate": "2024-02-12T20:00:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "2-3",
+              "eventUuid": "9d199104-49b7-43dd-b17d-2e7d6f91b79c",
+              "eventStartDate": "2023-11-11T15:00:00.000Z"
+            },
+            {
+              "score": "0-0",
+              "eventUuid": "f1fb35ed-5ec4-4426-a802-8a0e0e4fbbca",
+              "eventStartDate": "2023-09-23T14:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "0fbb37d5-f276-4482-968f-c0a63e66cf28",
+              "eventStartDate": "2023-12-09T12:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "25f5303b-f4bd-4c96-bd86-3ed0dc88315e",
+              "eventStartDate": "2024-03-09T15:00:00.000Z"
+            },
+            {
+              "score": "2-4",
+              "eventUuid": "f61b78cd-b8d5-4f38-a2f4-741f169d7584",
+              "eventStartDate": "2024-04-06T11:30:00.000Z"
+            },
+            {
+              "score": "4-0",
+              "eventUuid": "85725e01-0f72-4256-a082-79bd726e153d",
+              "eventStartDate": "2024-05-06T19:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "cf46040a-6013-452b-b909-baf809d5659b",
+              "eventStartDate": "2024-04-24T19:00:00.000Z"
+            },
+            {
+              "score": "0-0",
+              "eventUuid": "0021d390-449d-41b4-a32b-86be8b84fbff",
+              "eventStartDate": "2023-10-07T16:30:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "a04a66f4-4f9a-43e7-9a1c-f108fc735719",
+              "eventStartDate": "2024-01-30T20:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "bf2158ef-fc07-448d-900e-c0932342a355",
+              "eventStartDate": "2023-10-27T19:00:00.000Z"
+            },
+            {
+              "score": "5-2",
+              "eventUuid": "375015c0-b9fc-4a9b-bd60-4854822f4402",
+              "eventStartDate": "2024-04-21T14:00:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "7ef07f9a-ebad-4058-87da-0ab4778d6448",
+              "eventStartDate": "2023-09-03T13:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Everton",
+              "acronym": "EVE",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127921/untitled-sports-project/team/0cde38af-c850-4739-8beb-3960e6ad0dbd.png"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "3e03c0a8-b5fd-43c0-8102-c4786b66ac9d",
+              "eventStartDate": "2023-09-17T15:30:00.000Z"
+            },
+            {
+              "score": "0-0",
+              "eventUuid": "144c825b-5274-46bc-b3b6-806ac6e387ea",
+              "eventStartDate": "2024-01-14T14:00:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "17b4d175-85bd-420f-be9b-2cb884e5160e",
+              "eventStartDate": "2023-10-07T14:00:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "92635d6a-88a0-46ab-b74b-2abdf1a3f498",
+              "eventStartDate": "2024-04-27T16:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "7a4be21b-9fed-4a84-acee-f79603c39aef",
+              "eventStartDate": "2023-11-04T15:00:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "1a624eb5-b2f7-4fb2-92d3-8466671f99e9",
+              "eventStartDate": "2024-04-06T14:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "1e91a9ea-1002-4589-ab7f-b741f05e36b9",
+              "eventStartDate": "2023-12-10T14:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "9b31c98f-4197-437a-b4b6-fd65c73318fc",
+              "eventStartDate": "2024-02-19T20:00:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "3fb4604b-051f-4239-a57d-be67409634ea",
+              "eventStartDate": "2023-08-12T14:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "6e35893e-bc1f-44e6-82a5-5a17561b19f0",
+              "eventStartDate": "2024-04-24T19:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "539c951c-a852-46f5-880f-0062f5dd688b",
+              "eventStartDate": "2023-09-30T14:00:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "714a4490-ca1a-4d87-a81b-baa1fd9dec31",
+              "eventStartDate": "2023-12-27T20:15:00.000Z"
+            },
+            {
+              "score": "0-3",
+              "eventUuid": "9181bcb6-87bc-4e15-818f-fd57f089b84a",
+              "eventStartDate": "2023-11-26T16:30:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "38f122b4-b27b-480c-b8fb-a32ade64bb2e",
+              "eventStartDate": "2023-12-07T19:30:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "1283fdde-9ebe-425f-be47-83f014437872",
+              "eventStartDate": "2024-04-21T12:30:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "db7f728a-23ec-4469-a5bc-7caa04ae9e60",
+              "eventStartDate": "2024-05-11T14:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "c6184588-6a8b-4353-b0b8-db6ed76ccb40",
+              "eventStartDate": "2024-02-03T12:30:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "5b24272f-97a0-4032-a09b-65f9cebf5910",
+              "eventStartDate": "2024-03-02T15:00:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "50fec88d-fb76-42e9-902f-92ad8a3f5120",
+              "eventStartDate": "2023-08-26T14:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Fulham",
+              "acronym": "FUL",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127931/untitled-sports-project/team/6917f9d1-ca7e-427a-8723-5046c6ace118.png"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "bac611fc-fb3a-4a00-b4eb-22299765f02f",
+              "eventStartDate": "2023-12-31T14:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "a6f22767-86a1-4159-9ffb-9076fc012786",
+              "eventStartDate": "2024-02-17T15:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "f623082e-f399-4793-87e4-82ff454dbd3e",
+              "eventStartDate": "2024-02-10T15:00:00.000Z"
+            },
+            {
+              "score": "0-3",
+              "eventUuid": "96cbd8fc-3def-4c4d-ab4b-7471846b1e09",
+              "eventStartDate": "2023-08-19T14:00:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "8d087257-60f0-48fe-80eb-ce99ca1617ee",
+              "eventStartDate": "2024-03-02T15:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "7ccaa7ec-a260-4a95-9cb9-eb7cec3eb3e8",
+              "eventStartDate": "2023-12-23T15:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "d39f786e-1881-40b6-a823-b68101f2efe7",
+              "eventStartDate": "2023-10-02T19:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "7a75ea77-70d8-4594-b659-c35d9e17f864",
+              "eventStartDate": "2024-04-27T14:00:00.000Z"
+            },
+            {
+              "score": "0-0",
+              "eventUuid": "8330b1f4-2006-48ad-a520-3714af0e630c",
+              "eventStartDate": "2024-01-30T19:45:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "d0734e6d-a9ac-4c39-bb7b-3128148a3875",
+              "eventStartDate": "2024-04-21T15:30:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "030f9f38-2f2f-4ddd-9102-fb2dd09baf77",
+              "eventStartDate": "2023-09-16T14:00:00.000Z"
+            },
+            {
+              "score": "0-4",
+              "eventUuid": "84ab09fa-c00d-4c13-9bbc-06c073aa997b",
+              "eventStartDate": "2024-05-11T11:30:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "76ba1899-acff-4bde-8fb1-d1bb18461909",
+              "eventStartDate": "2023-11-04T12:30:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "e7782e6a-5e45-4147-ae90-1c83e129cf97",
+              "eventStartDate": "2024-04-06T14:00:00.000Z"
+            },
+            {
+              "score": "5-0",
+              "eventUuid": "a00ec84c-4c6b-47d0-898b-5a8be09d9c38",
+              "eventStartDate": "2023-12-06T19:30:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "ae85ac5d-3b28-4f11-b7cd-f1d62a46c04b",
+              "eventStartDate": "2023-10-07T14:00:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "9a7706df-a31b-4707-b2bf-e56447616ea0",
+              "eventStartDate": "2024-03-16T17:30:00.000Z"
+            },
+            {
+              "score": "5-0",
+              "eventUuid": "2cc821d3-7b05-48ac-9476-c51feb728112",
+              "eventStartDate": "2023-12-10T14:00:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "e55926bf-f24f-4769-aecf-c7dd02d2e561",
+              "eventStartDate": "2023-11-27T20:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Liverpool",
+              "acronym": "LIV",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127934/untitled-sports-project/team/2183fa54-5545-4f57-919d-a6e9a44f867b.png"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "dc73cce6-2f14-4b6a-baac-9e70cc94f586",
+              "eventStartDate": "2023-12-23T17:30:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "36a69784-c909-49bf-8e61-13295959fc67",
+              "eventStartDate": "2023-09-03T13:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "d81d1b23-5033-4323-a0bd-591e89f3ff57",
+              "eventStartDate": "2023-08-19T14:00:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "f85d6713-a5dd-432a-8d2f-d3cdb169009f",
+              "eventStartDate": "2023-11-12T14:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "cc415845-52e6-4c58-b8dc-0028df9ea5ef",
+              "eventStartDate": "2024-03-31T13:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "5994c4b0-4c5d-43c2-9cdd-e259e83c0d89",
+              "eventStartDate": "2024-02-10T15:00:00.000Z"
+            },
+            {
+              "score": "4-1",
+              "eventUuid": "7fc25b55-4cd8-45a3-9fd9-f628f37c97da",
+              "eventStartDate": "2024-01-31T20:15:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "40832824-4d11-4f55-9c70-6963dceefdf8",
+              "eventStartDate": "2024-04-14T13:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "aac3d56b-3859-4bcd-9c76-0e6e249328d0",
+              "eventStartDate": "2023-10-21T11:30:00.000Z"
+            },
+            {
+              "score": "4-3",
+              "eventUuid": "fa59fb4f-480f-4a73-96f0-5ac2a5c5ffb3",
+              "eventStartDate": "2023-12-03T14:00:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "4-1",
+              "eventUuid": "5306073a-31c7-46a9-982e-b5a4eaa54cc5",
+              "eventStartDate": "2024-02-21T19:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "a45d2db6-ab19-4a56-928d-b164eb94e9e3",
+              "eventStartDate": "2024-03-10T15:45:00.000Z"
+            },
+            {
+              "score": "0-0",
+              "eventUuid": "d58c4bcf-78b6-4c0a-a3b6-ff2fb188c102",
+              "eventStartDate": "2023-12-17T16:30:00.000Z"
+            },
+            {
+              "score": "4-2",
+              "eventUuid": "5e6c01c8-4ed3-46ee-81f4-4cf5c3eacfd7",
+              "eventStartDate": "2024-01-01T20:00:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "4642d033-d8f6-4e7e-ab40-727fcdbe287a",
+              "eventStartDate": "2023-10-29T14:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "12f0c3e4-2264-489a-adf3-01dc0dc0b918",
+              "eventStartDate": "2024-04-04T18:30:00.000Z"
+            },
+            {
+              "score": "4-2",
+              "eventUuid": "d23bd551-5a57-4a8c-b437-43aefd524cc5",
+              "eventStartDate": "2024-05-05T15:30:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "ebcddd4a-2242-464c-a994-3dec1fe0bd73",
+              "eventStartDate": "2023-09-24T13:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "8f4e1b04-9610-4e41-9fee-d4ec07618b12",
+              "eventStartDate": "2024-05-19T15:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Luton Town",
+              "acronym": "LUT",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127929/untitled-sports-project/team/cbd6b230-f539-4738-a589-c63b6262ccca.png"
+            },
+            {
+              "score": "3-4",
+              "eventUuid": "12b8ed96-41f7-4c6c-8a86-6d236018b369",
+              "eventStartDate": "2023-12-05T20:15:00.000Z"
+            },
+            {
+              "score": "2-3",
+              "eventUuid": "22724d07-553e-43ee-9b1a-5fe7576ce0c0",
+              "eventStartDate": "2024-03-02T17:30:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "233f6426-ae06-46c1-bbf4-60a2425fce5c",
+              "eventStartDate": "2024-04-06T14:00:00.000Z"
+            },
+            {
+              "score": "1-5",
+              "eventUuid": "b106f3b1-0012-4a8a-b48f-6303081cba19",
+              "eventStartDate": "2024-04-20T14:00:00.000Z"
+            },
+            {
+              "score": "4-0",
+              "eventUuid": "d5891f4a-24d4-4e47-a060-6ce9d03263a9",
+              "eventStartDate": "2024-01-30T19:45:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "2bed8921-3e6f-479b-abf6-42a73ff8a61a",
+              "eventStartDate": "2023-10-03T18:30:00.000Z"
+            },
+            {
+              "score": "2-3",
+              "eventUuid": "eb7df48b-955a-43ce-96c9-f42de7f76469",
+              "eventStartDate": "2023-12-30T12:30:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "993c0956-b107-4f21-af41-f18a46ff8879",
+              "eventStartDate": "2023-11-25T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "64ea22f5-a6e2-46f2-af88-b1e3afdb2597",
+              "eventStartDate": "2024-05-03T19:00:00.000Z"
+            },
+            {
+              "score": "2-4",
+              "eventUuid": "ab65f653-e0ec-4f50-8a6b-70ea504acf22",
+              "eventStartDate": "2024-05-19T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "769c750d-64a6-4b84-bf11-bc3cf5ffb905",
+              "eventStartDate": "2023-11-05T16:30:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "898b49eb-a45b-4be5-8e55-a458c510225b",
+              "eventStartDate": "2023-12-10T14:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "6e5b2a1a-a0bf-48a7-a3ed-563f6ab085c8",
+              "eventStartDate": "2024-02-18T16:30:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "25dbdb3d-4d08-4d47-b1ca-61e3359ea3b4",
+              "eventStartDate": "2023-12-23T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "3a86444c-86ed-4446-903f-dbf4d88b6084",
+              "eventStartDate": "2024-03-16T15:00:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "8d38fd62-fc26-4360-a08d-76faa1b231d9",
+              "eventStartDate": "2024-02-10T15:00:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "606a1496-6fef-4c3c-aaf6-f929e426efe2",
+              "eventStartDate": "2023-10-07T11:30:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "d4dec4a5-e29c-4317-b171-a6c4e6f38a96",
+              "eventStartDate": "2023-09-01T19:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "dacc9e1c-f350-4c3f-bad8-1009f5661c48",
+              "eventStartDate": "2023-09-23T14:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Manchester City",
+              "acronym": "MCI",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127928/untitled-sports-project/team/0427b056-539d-4b6f-9ead-24ca81e01b92.png"
+            },
+            {
+              "score": "0-0",
+              "eventUuid": "6d41e40f-2cc7-4d7d-b591-2e3b9d3c1052",
+              "eventStartDate": "2024-03-31T15:30:00.000Z"
+            },
+            {
+              "score": "4-1",
+              "eventUuid": "71040bfd-70d9-4915-9ca3-51d2ff89b548",
+              "eventStartDate": "2024-04-03T19:15:00.000Z"
+            },
+            {
+              "score": "6-1",
+              "eventUuid": "9825ad3c-84b1-4062-bed6-ae19ae0d98bb",
+              "eventStartDate": "2023-11-04T15:00:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "342dc3c0-97cc-431d-8327-cf415e3aaf4c",
+              "eventStartDate": "2024-02-20T19:30:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "4abd6b5e-9660-45b3-b391-e0d190c40771",
+              "eventStartDate": "2023-10-21T14:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "1a074149-098e-4c2a-8718-752cbcbdf694",
+              "eventStartDate": "2024-01-31T19:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "5c7f5803-837a-44d0-80f4-87cc03a4b652",
+              "eventStartDate": "2024-02-17T17:30:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "40fd5c1b-34ad-4d42-b5b3-2fde0938c9e3",
+              "eventStartDate": "2023-12-16T15:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "a3166201-ef96-439f-b9b7-331a8af89a0c",
+              "eventStartDate": "2024-02-10T12:30:00.000Z"
+            },
+            {
+              "score": "5-1",
+              "eventUuid": "42cd69e9-9552-4651-857e-e346e414f7f0",
+              "eventStartDate": "2023-09-02T14:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "b9ef9063-2c8d-43bf-9d63-dcb6abb0b915",
+              "eventStartDate": "2023-11-25T12:30:00.000Z"
+            },
+            {
+              "score": "5-1",
+              "eventUuid": "cb430db5-63c5-4ba0-9abb-5844b99f476f",
+              "eventStartDate": "2024-04-13T14:00:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "32e43793-1479-4b18-864b-78a6e2feb10b",
+              "eventStartDate": "2024-03-03T15:30:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "b36032a5-2e78-429b-a9be-4c50699362a9",
+              "eventStartDate": "2023-08-19T19:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "380391c4-d4c7-4ddb-8dfc-d160bc99640a",
+              "eventStartDate": "2023-09-23T14:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "b2c1adea-fa12-4e77-99f9-9264544cf1e3",
+              "eventStartDate": "2023-12-30T15:00:00.000Z"
+            },
+            {
+              "score": "3-3",
+              "eventUuid": "fc24d4ed-1a4b-42bb-ac5c-e00822d8aeb1",
+              "eventStartDate": "2023-12-03T16:30:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "37e8f411-7834-400b-ad42-54b834c6ffaf",
+              "eventStartDate": "2024-05-19T15:00:00.000Z"
+            },
+            {
+              "score": "5-1",
+              "eventUuid": "f25c7ddd-442e-422b-b1c3-73444f291c4c",
+              "eventStartDate": "2024-05-04T16:30:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Manchester United",
+              "acronym": "MUN",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127918/untitled-sports-project/team/e8fb5cf5-a571-47c3-ae31-37dd37856f2b.png"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "bef8284e-48d9-4671-a60b-4521829e5e38",
+              "eventStartDate": "2024-05-12T15:30:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "d63d6f41-29ca-4a4f-901c-34f66deedfd7",
+              "eventStartDate": "2023-12-26T20:00:00.000Z"
+            },
+            {
+              "score": "0-3",
+              "eventUuid": "59aed3bf-0498-43c5-a21e-d512442bc8d4",
+              "eventStartDate": "2023-12-09T15:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "8d135a27-5fe6-4011-b7b1-0fa6bdf2f5ae",
+              "eventStartDate": "2023-10-07T14:00:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "53087b73-f7c2-4c51-baa5-4aae4d8f0158",
+              "eventStartDate": "2023-09-16T14:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "97bfbc2e-2da3-405c-9a9c-b20e9b2237dd",
+              "eventStartDate": "2024-04-27T14:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "38aeb089-e2bd-4906-a637-f695b1da1cf5",
+              "eventStartDate": "2023-12-06T20:15:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "39c6fc17-37ba-4206-b157-80d42565d32b",
+              "eventStartDate": "2023-09-30T14:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "b2f0f9d5-d282-438f-b5cc-9c2440b4c961",
+              "eventStartDate": "2024-03-09T12:30:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "bca9ba8e-04a3-4c4e-838d-54cccf6b2a68",
+              "eventStartDate": "2024-02-24T15:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "2fc7db85-a8a2-44e7-88c5-becc4ad3a2c0",
+              "eventStartDate": "2024-04-07T14:30:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "d8f05d40-fb25-406d-abe8-5dc00b2da0c8",
+              "eventStartDate": "2023-11-11T15:00:00.000Z"
+            },
+            {
+              "score": "0-3",
+              "eventUuid": "ee0424cb-4c61-4b5b-a95a-7a9620f0f7ad",
+              "eventStartDate": "2023-10-29T15:30:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "fbfd408e-d9cc-4458-b739-adfd198eb7c3",
+              "eventStartDate": "2024-05-15T19:00:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "16db8f1f-16a3-49d8-87bb-2f657ff5026c",
+              "eventStartDate": "2023-08-26T14:00:00.000Z"
+            },
+            {
+              "score": "4-2",
+              "eventUuid": "2504cc32-6726-4f4f-ac0c-6bd38ca6139a",
+              "eventStartDate": "2024-04-24T19:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "3af5dcc8-9be7-4955-a3eb-348194bb30e0",
+              "eventStartDate": "2024-01-14T16:30:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "562845ee-0120-4e82-97cf-50cb89c158e3",
+              "eventStartDate": "2024-02-04T14:00:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "3c370dc7-0260-490d-a21f-b109a70ccee8",
+              "eventStartDate": "2023-08-14T19:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Newcastle United",
+              "acronym": "NEW",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127931/untitled-sports-project/team/9af50cf6-ea3b-4b31-adae-6c74b5e28324.png"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "d79eddda-22b4-46bd-925c-b94a99eb262a",
+              "eventStartDate": "2023-11-04T17:30:00.000Z"
+            },
+            {
+              "score": "5-1",
+              "eventUuid": "597d042f-5fcf-4e74-9414-74842af0f1aa",
+              "eventStartDate": "2023-08-12T16:30:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "c90a3bc4-3051-4a69-b5ac-7e376ff98316",
+              "eventStartDate": "2024-02-17T15:00:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "9d4ffcd3-3d47-4082-a970-082f0a325da6",
+              "eventStartDate": "2023-09-16T16:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "76302070-679d-4be7-849c-4105bbc79acf",
+              "eventStartDate": "2024-05-11T14:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "ce864d80-a0f7-445a-9c12-2e998657031e",
+              "eventStartDate": "2023-09-30T14:00:00.000Z"
+            },
+            {
+              "score": "4-1",
+              "eventUuid": "a4db970c-afd3-489a-95e0-c97b56ef3f67",
+              "eventStartDate": "2023-11-25T15:00:00.000Z"
+            },
+            {
+              "score": "4-0",
+              "eventUuid": "aa84721e-513c-4093-a881-0f4a1b2ca901",
+              "eventStartDate": "2023-10-21T14:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "d6a6fa1f-db5e-412e-8c0e-e99bc931bebf",
+              "eventStartDate": "2024-04-02T18:30:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "042dd70e-5807-4fc8-9a10-00fa7e3fb3ed",
+              "eventStartDate": "2023-12-16T15:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "4c76d1dd-6f6f-4f2b-85ca-fa233761d396",
+              "eventStartDate": "2023-08-27T15:30:00.000Z"
+            },
+            {
+              "score": "4-4",
+              "eventUuid": "9fdbc94f-09b0-44e4-9b2c-a5fd6594099b",
+              "eventStartDate": "2024-02-03T15:00:00.000Z"
+            },
+            {
+              "score": "2-3",
+              "eventUuid": "8c7d7225-742c-4364-9ec4-aa8a65b859d0",
+              "eventStartDate": "2024-01-13T17:30:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "0f4a095c-a9d7-4cbc-bf90-7c988d80a0ad",
+              "eventStartDate": "2023-12-02T20:00:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "ed865be8-582e-4348-8861-059d33cefb90",
+              "eventStartDate": "2023-12-26T12:30:00.000Z"
+            },
+            {
+              "score": "5-1",
+              "eventUuid": "c7669ae1-453d-472c-89d8-58cd58bf8672",
+              "eventStartDate": "2024-04-27T14:00:00.000Z"
+            },
+            {
+              "score": "4-0",
+              "eventUuid": "53c0b852-d9b5-4f78-bbe4-c94b45e1bd7a",
+              "eventStartDate": "2024-04-13T11:30:00.000Z"
+            },
+            {
+              "score": "4-3",
+              "eventUuid": "a52a073b-144b-4f73-9ed6-71c74223843c",
+              "eventStartDate": "2024-03-30T12:30:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "f90a3d39-0913-4d4f-8694-308f4c699646",
+              "eventStartDate": "2024-03-02T15:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Nottingham Forest",
+              "acronym": "NFO",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127927/untitled-sports-project/team/a2ba509d-5295-490d-8050-1fc910da759d.png"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "650438fa-f456-4ca4-83f8-3ad5ece4edaf",
+              "eventStartDate": "2024-01-30T19:30:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "3b3ff30a-c325-4fbd-867f-c7780dee2ccf",
+              "eventStartDate": "2023-11-05T14:00:00.000Z"
+            },
+            {
+              "score": "2-3",
+              "eventUuid": "91199025-55fa-4028-be99-291dd6f99adc",
+              "eventStartDate": "2023-12-23T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "84fabc7b-6831-4e31-96b7-a4ecf123dcdf",
+              "eventStartDate": "2023-10-01T13:00:00.000Z"
+            },
+            {
+              "score": "2-3",
+              "eventUuid": "ce5daae7-aee7-4d16-bb21-a0206e421c65",
+              "eventStartDate": "2023-11-25T15:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "8022fce9-3bdc-4ec5-8663-25e22b4dee9b",
+              "eventStartDate": "2023-09-18T18:45:00.000Z"
+            },
+            {
+              "score": "2-3",
+              "eventUuid": "231924d0-4b8b-4b70-bd7f-ce0a31d89404",
+              "eventStartDate": "2024-05-11T16:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "8a9480f6-6740-40b6-895a-6ad459a9dcf1",
+              "eventStartDate": "2024-03-30T15:00:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "e2a33076-5cd4-48cd-b140-848b04eacb2c",
+              "eventStartDate": "2023-12-02T17:30:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "4e69cf2e-1f7c-4ea5-9ea6-f81148b73bf2",
+              "eventStartDate": "2024-04-02T18:30:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "cedbaa90-3d62-43d2-bec3-6a48b1b6e699",
+              "eventStartDate": "2024-03-02T15:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "73dcb978-a6cf-47f8-9af3-0d7e2a8f2a6a",
+              "eventStartDate": "2023-10-21T14:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "e1c6700c-2307-4bab-9f44-8cf7bffa2f25",
+              "eventStartDate": "2024-04-28T15:30:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "bc0be0f5-3998-4797-a118-cca87c485c1b",
+              "eventStartDate": "2023-12-30T17:30:00.000Z"
+            },
+            {
+              "score": "2-3",
+              "eventUuid": "a560cdb6-a9dd-41b5-9f0d-c43a24d37e3c",
+              "eventStartDate": "2024-02-10T17:30:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "cce2c016-22b4-4144-85f1-99b54487f9d7",
+              "eventStartDate": "2023-08-18T18:45:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "5621d267-73ab-4263-b051-c3d6506afc36",
+              "eventStartDate": "2023-12-15T20:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "5fdca749-c938-4596-b535-33efdc0b45e0",
+              "eventStartDate": "2024-02-17T15:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "bbdaf40c-b5b7-4d8c-b115-224d82e1404a",
+              "eventStartDate": "2024-04-13T14:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Sheffield United",
+              "acronym": "SHU",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127930/untitled-sports-project/team/6d645f50-f8db-4f3d-ad4b-7b41f4d0371f.png"
+            },
+            {
+              "score": "0-6",
+              "eventUuid": "2243bcb9-915a-4abe-bd87-157606dbd5eb",
+              "eventStartDate": "2024-03-04T20:00:00.000Z"
+            },
+            {
+              "score": "0-5",
+              "eventUuid": "c78f13f9-ad5d-4c38-9372-157125bbed12",
+              "eventStartDate": "2024-02-03T17:30:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "c357caf9-2e13-4ac4-b02c-fe5c2534fa57",
+              "eventStartDate": "2023-11-25T15:00:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "725db1bf-cb6d-476a-b50c-178c5964e197",
+              "eventStartDate": "2023-12-09T15:00:00.000Z"
+            },
+            {
+              "score": "0-5",
+              "eventUuid": "83ec43e3-b95e-4f4e-ae74-191a1c446ae1",
+              "eventStartDate": "2024-02-18T14:00:00.000Z"
+            },
+            {
+              "score": "1-4",
+              "eventUuid": "396e7742-b196-428f-b66c-02f56cb9cfa8",
+              "eventStartDate": "2024-04-20T14:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "e89346cf-809d-4333-ab73-e978d9a306cc",
+              "eventStartDate": "2024-04-07T16:30:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "df41a24f-5bea-4a6a-b057-9e4789e1d8bc",
+              "eventStartDate": "2023-08-12T14:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "0d78dbdb-9881-49e7-92c3-27f6ed163a9a",
+              "eventStartDate": "2023-09-02T11:30:00.000Z"
+            },
+            {
+              "score": "3-3",
+              "eventUuid": "15c94753-ad3b-4b4c-9345-f77401791ba8",
+              "eventStartDate": "2024-03-30T15:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "6d2fa017-956a-4ebd-bbe4-a61ed4cf054c",
+              "eventStartDate": "2023-12-06T19:30:00.000Z"
+            },
+            {
+              "score": "2-3",
+              "eventUuid": "8064cad4-b129-493d-a45f-79eea149c31e",
+              "eventStartDate": "2023-12-26T15:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "32aed44c-b9c4-496a-b657-075d9c504d6f",
+              "eventStartDate": "2023-08-27T13:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "4996c873-5bc0-4cf0-9ac3-5004d60f0655",
+              "eventStartDate": "2023-10-21T19:00:00.000Z"
+            },
+            {
+              "score": "0-8",
+              "eventUuid": "f64a98ca-5947-4f94-8d03-6a7249b63753",
+              "eventStartDate": "2023-09-24T15:30:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "404a8b3f-d16a-4fd9-b2c9-a7a1e2127dae",
+              "eventStartDate": "2024-05-04T14:00:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "0-3",
+              "eventUuid": "06596d84-8987-48ef-bd30-2af45a11e3b2",
+              "eventStartDate": "2024-05-19T15:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "347e2ba9-d846-4286-b439-a124d143aaf8",
+              "eventStartDate": "2024-01-21T14:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "4cac32cb-2c25-4c79-97c9-6dfef59491b4",
+              "eventStartDate": "2023-11-04T15:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Tottenham Hotspur",
+              "acronym": "TOT",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127925/untitled-sports-project/team/bd25e56d-22c8-4a59-9975-91a98185fe0d.png"
+            },
+            {
+              "score": "2-3",
+              "eventUuid": "1eaad827-d8ed-441a-989c-6a66efbcd2bd",
+              "eventStartDate": "2024-04-28T13:00:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "97c9d1d0-e902-4059-b456-fb2bcefc2334",
+              "eventStartDate": "2023-11-26T14:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "0f5227ee-b65f-4db7-923a-747075c6bd75",
+              "eventStartDate": "2023-12-31T14:00:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "e1a30d61-c0c1-47d3-8693-9914d0209f0b",
+              "eventStartDate": "2024-01-31T19:30:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "cb067ca3-e5bc-4427-8c67-bfe9e362014b",
+              "eventStartDate": "2024-02-10T15:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "e312e8b0-9a03-4d10-b01e-381b37b05ba2",
+              "eventStartDate": "2024-05-11T14:00:00.000Z"
+            },
+            {
+              "score": "1-4",
+              "eventUuid": "709e4dcf-fb11-48a0-b7be-c2e5e9efa384",
+              "eventStartDate": "2023-11-06T20:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "3c844086-53df-49db-b254-2ddfec4edd86",
+              "eventStartDate": "2024-03-02T15:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "f09b0b77-223e-498b-9169-888d061995ee",
+              "eventStartDate": "2023-12-23T15:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "2899b6ef-3f7d-480a-b51f-d7d808ef6db8",
+              "eventStartDate": "2023-10-23T19:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "850b4c24-898a-4df2-8c80-d7f6dcfa9071",
+              "eventStartDate": "2023-09-30T16:30:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "7aa547cd-3b38-4ae6-a48c-989665755c31",
+              "eventStartDate": "2024-03-30T15:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "6ff8bb63-4579-43a4-b560-9a8e440533c9",
+              "eventStartDate": "2024-05-14T19:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "3d0e08eb-db13-486b-841a-529d8147222a",
+              "eventStartDate": "2023-08-19T16:30:00.000Z"
+            },
+            {
+              "score": "4-1",
+              "eventUuid": "3573b25a-c6bb-4407-ac01-f10ea77ea99e",
+              "eventStartDate": "2023-12-10T16:30:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "a549a09f-bcff-4672-ae67-35115bbb81ae",
+              "eventStartDate": "2024-04-07T17:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "6657003d-99b7-4bda-a81b-aea01a09a56e",
+              "eventStartDate": "2023-09-16T14:00:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "a48cf63e-1ac2-4dac-8f7c-670609b3d341",
+              "eventStartDate": "2023-12-07T20:15:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "8d967930-8a2c-43a1-99db-524e3e84171f",
+              "eventStartDate": "2024-02-17T15:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "West Ham United",
+              "acronym": "WHU",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127933/untitled-sports-project/team/4706cae4-bf30-428e-aac3-1535cfe5b98a.png"
+            },
+            {
+              "score": "0-6",
+              "eventUuid": "b137bb7b-da2f-4915-a166-91b6c4cd1dc7",
+              "eventStartDate": "2024-02-11T14:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "05312c44-7d10-42db-8788-362ba9af6978",
+              "eventStartDate": "2024-03-17T14:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "a53e8ce2-7fff-4c62-a94b-56bd28793416",
+              "eventStartDate": "2024-02-01T19:30:00.000Z"
+            },
+            {
+              "score": "4-2",
+              "eventUuid": "fc2da838-cb04-49b0-b493-2e7f39caf8f0",
+              "eventStartDate": "2024-02-26T20:00:00.000Z"
+            },
+            {
+              "score": "0-0",
+              "eventUuid": "9d64e241-ceef-4b64-9a98-b6e178316d68",
+              "eventStartDate": "2024-01-02T19:30:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "77eecbc6-084d-4aad-a4f9-64f8cbf73ed8",
+              "eventStartDate": "2024-03-10T14:00:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "7e11e585-fb94-4714-a9ba-0cf4c646aeab",
+              "eventStartDate": "2023-08-20T15:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "8acf0fdb-6c61-4e0f-b2d4-4a4954106afc",
+              "eventStartDate": "2023-12-03T14:00:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "5ec7e6d1-ab5e-4b19-a137-95ddb790f094",
+              "eventStartDate": "2023-10-29T13:00:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "cad90d66-9ffe-4b0e-bcf2-47bdabf8e43c",
+              "eventStartDate": "2024-04-14T13:00:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "b9861920-84be-4d2b-a35c-6fa1de93036f",
+              "eventStartDate": "2024-04-27T11:30:00.000Z"
+            },
+            {
+              "score": "3-1",
+              "eventUuid": "270940de-cb83-414c-be5b-dc260e8ed0a5",
+              "eventStartDate": "2024-05-11T14:00:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "d02c845e-9256-4ff9-8c8b-4a047b6f9412",
+              "eventStartDate": "2023-09-16T14:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "010cbb8c-dca5-4565-a747-06f7ff7c199e",
+              "eventStartDate": "2023-12-23T12:30:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "b1310938-123a-4f16-b403-b9254ebadf73",
+              "eventStartDate": "2023-10-08T13:00:00.000Z"
+            },
+            {
+              "score": "3-2",
+              "eventUuid": "b832a80c-c52d-47b3-873c-4b5b241db571",
+              "eventStartDate": "2023-11-12T14:00:00.000Z"
+            },
+            {
+              "score": "2-0",
+              "eventUuid": "45f5dd93-ba79-4dfe-a8c4-0596e38b61f7",
+              "eventStartDate": "2023-09-30T14:00:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "ba71fd2f-ac31-4000-bb90-b14647f76a53",
+              "eventStartDate": "2024-04-02T19:15:00.000Z"
+            },
+            {
+              "score": "-"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "d5ab8dd2-b8ae-45a9-9118-e9e7267404dd",
+              "eventStartDate": "2023-12-17T14:00:00.000Z"
+            }
+          ],
+          [
+            {
+              "name": "Wolverhampton",
+              "acronym": "WOL",
+              "mainImageUrl": "https://res.cloudinary.com/dbrijhx95/image/upload/v1716127932/untitled-sports-project/team/28fe92b2-e2ee-4cff-98ad-c080116ecdc7.png"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "1e7ecf31-ddf7-4792-9469-0770b3e42f5c",
+              "eventStartDate": "2024-04-20T18:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "af2d24b7-4a78-4caa-84f9-4539073da981",
+              "eventStartDate": "2023-10-08T13:00:00.000Z"
+            },
+            {
+              "score": "0-1",
+              "eventUuid": "53ec7b75-7a59-4df9-860b-1233cfb0977f",
+              "eventStartDate": "2024-04-24T18:45:00.000Z"
+            },
+            {
+              "score": "0-2",
+              "eventUuid": "dc42678c-f104-47a3-bf43-546958f2c31e",
+              "eventStartDate": "2024-02-10T15:00:00.000Z"
+            },
+            {
+              "score": "1-4",
+              "eventUuid": "d632d3c8-cc04-4ee8-9674-af55dc4afdb8",
+              "eventStartDate": "2023-08-19T14:00:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "108f9bd8-ed29-4d8e-8044-6730f5bc737d",
+              "eventStartDate": "2023-12-05T19:30:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "a7b22243-2513-4284-b469-9d901f79315d",
+              "eventStartDate": "2023-12-24T13:00:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "c0afe522-2be6-4018-8981-bb4e9b8ccf4c",
+              "eventStartDate": "2024-05-11T14:00:00.000Z"
+            },
+            {
+              "score": "3-0",
+              "eventUuid": "a9ca102b-fa73-4300-b5c0-da9e6b1219b0",
+              "eventStartDate": "2023-12-30T15:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "b134d241-cc9d-4b36-87d1-c2d0f144e542",
+              "eventStartDate": "2024-03-09T15:00:00.000Z"
+            },
+            {
+              "score": "1-3",
+              "eventUuid": "766e2028-defd-4796-a075-0b7877f80faf",
+              "eventStartDate": "2023-09-16T11:30:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "beef2d16-8f88-406e-8c1d-69c194907594",
+              "eventStartDate": "2024-04-27T14:00:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "58935181-17a5-4d06-af77-a33d3ee8dec8",
+              "eventStartDate": "2023-09-30T14:00:00.000Z"
+            },
+            {
+              "score": "3-4",
+              "eventUuid": "8bd327c5-4b61-43c6-9a75-b5e4cd9817b0",
+              "eventStartDate": "2024-02-01T20:15:00.000Z"
+            },
+            {
+              "score": "2-2",
+              "eventUuid": "b78f62e7-1e6c-48ca-8ca3-a38a44379441",
+              "eventStartDate": "2023-10-28T16:30:00.000Z"
+            },
+            {
+              "score": "1-1",
+              "eventUuid": "689aaafa-66f3-431c-b9c8-298a3256f7e2",
+              "eventStartDate": "2023-12-09T15:00:00.000Z"
+            },
+            {
+              "score": "1-0",
+              "eventUuid": "2f2bc706-3d27-4997-be23-3ce56eee6206",
+              "eventStartDate": "2024-02-25T13:30:00.000Z"
+            },
+            {
+              "score": "2-1",
+              "eventUuid": "1088ded3-9400-4c85-868d-ff0d7d22f376",
+              "eventStartDate": "2023-11-11T12:30:00.000Z"
+            },
+            {
+              "score": "1-2",
+              "eventUuid": "66714538-b0cf-4622-a715-d2b50cc799eb",
+              "eventStartDate": "2024-04-06T14:00:00.000Z"
+            },
+            {
+              "score": "-"
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}
