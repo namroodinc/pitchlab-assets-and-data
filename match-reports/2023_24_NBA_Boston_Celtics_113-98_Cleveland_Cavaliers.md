@@ -4,7 +4,7 @@
 
 The Boston Celtics secured a 113-98 victory over the Cleveland Cavaliers in the Eastern Conference semifinals held at TD Garden in Boston, MA on May 15, 2024. The victory ensured the Celtics' advancement to the conference finals, winning the series 4-1.
 
-The game started evenly, with both teams trading baskets. The first quarter ended with the Celtics leading 28-28. In the second quarter, Boston began to build a lead, entering halftime with a 58-52 advantage.
+The game started evenly, with both teams trading baskets. The first quarter ended with the both teams at 28-28. In the second quarter, Boston began to build a lead, entering halftime with a 58-52 advantage.
 
 Jayson Tatum was the standout player for Boston, contributing 25 points, 10 rebounds, and 9 assists. His performance was instrumental in maintaining and extending the Celtics' lead throughout the game. Al Horford also played a key role, scoring 22 points and securing 15 rebounds, including 7 offensive rebounds.
 
